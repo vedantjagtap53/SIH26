@@ -1,0 +1,4437 @@
+
+--- PAGE 1 ---
+No.: CPAM-34011/28/2019-CPAM(343762)
+Government of India
+Ministry of Coal
+[MPS Section]
+GPOA-3, Room No 4605, Netaji Nagar  
+New Delhi,  31st    July 2026
+NOTICE
+ 
+Subject: Stakeholders consultation on Draft Guidelines for preparation of
+Mining Plan and Mine Closure Plan for Coal and Lignite Mines, 2026.
+ 
+The Guidelines for preparation of Mining Plan and Mine Closure Plan for
+Coal and Lignite Blocks, 2025 dated 31.01.2025 may kindly be referred to.
+In this regard, it is stated that these guidelines are being revised and new
+guidelines has been drafted as Guidelines for preparation of Mining Plan and
+Mine Closure Plan for Coal and Lignite Mines, 2026.  These draft guidelines are
+available on the website of the Ministry of Coal and Coal Controller's Organization.
+2.    Requisite suggestions/comments, if any, may be furnished to Ministry of
+Coal on email id : socrc.moc@nic.in within 15 days, in the following format : 
+S.No.        Clause No.
+Suggested
+modification
+Rationale 
+ 
+ 
+ 
+ 
+ 
+ Encl: as above
+(Alok Verma)
+Under Secretary to the Government of India
+Email: alok.verma07@gov.in
+ 
+To
+1. Secretary, Ministry of Environment, Forest & Climate Change
+2. DG, DGMS
+3. CMDs of CIL/SCCL/NLCIL
+4. Coal Controller, New Delhi
+5. Director (Nominated Authority)- For circulation to all coal companies except
+CIL/SCCL/NLCIL
+Copy to:
+1. NIC- with request to upload the above document on the website of the
+Ministry of Coal.
+2. Coal Controller Organization - with request to upload the above documents
+CPAM-34011/28/2019-CPAM
+I/41283/2026
+
+--- PAGE 2 ---
+on the website of CCO.
+3. DS (Admin), MoC- with request to issue a small public notice in newspapers
+informing that the document is available at the website for comments.
+CPAM-34011/28/2019-CPAM
+I/41283/2026
+
+--- PAGE 3 ---
+ 
+P a g e 1 | 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Draft Mining Plan Guidelines  
+for  
+Coal and Lignite Mine 
+2026 
+ 
+ 
+ 
+
+--- PAGE 4 ---
+ 
+P a g e 2 | 46 
+ 
+List of Abbreviations  
+ 
+APA = Accredited Prospecting Agency 
+CBDPA= Coal Block Development and 
+Production Agreement 
+CPCB = Central Pollution Control Board  
+CCO = Coal Controller Organisation 
+CIL= Coal India Ltd. 
+Crs= Crores =10 million 
+CMDPA = Coal Mine Development and 
+Production Agreement 
+CMPDIL = Central Mine Planning and 
+Design Institute Limited 
+DGPS = Differential Global Positioning 
+System 
+DGMS = Directorate General of Mines 
+Safety  
+ERA = Expert Review Agency 
+EC = Environment Clearance  
+FC = Forest Clearance 
+GR = Geological Report 
+Ha = Hectare 
+IIT = Indian Institute of Technology  
+ISM = Indian School of Mines 
+Km = Kilometre 
+LBDPA= Lignite Block Development and 
+Production Agreement 
+LS = Lumpsum 
+m = Metre 
+Max = Maximum 
+MCDR = Mineral Conservation and 
+Development Rules 
+Mt = Million Tonne 
+MTPA = Millian Tonne Per Annum 
+ML = Mining Lease  
+MoEFCC = Ministry of Environment, 
+Forest and Climate Change  
+MCR = Mineral (Other than Atomic and 
+Hydrocarbons Energy Minerals) 
+Concession Rules, 1960  
+ 
+ 
+ 
+ 
+ 
+Mm3 = Million Cubic Meters 
+MoC = Ministry of Coal 
+MPPA = Mining Plan Preparing Agency 
+NABET = National Accreditation Board 
+for Education and Training  
+NLCIL = NLC India Limited 
+NEERI = National Environmental 
+Engineering Research Institute  
+OC = Opencast 
+OB = Overburden 
+OBR= OB Removal 
+PAPs= Project Affected Persons 
+PL = Prospecting Licence 
+PWD = Public Works Department 
+PSP = Pump Storage Projects 
+PRC= Peak Rated Capacity 
+QCI = Quality Council of India  
+QP = Qualified Person 
+SCCL = Singareni Collieries Company 
+Limited 
+SR = Stripping Ratio  
+SPCB = State Pollution Control Board  
+SWCS= Single Window Clearance System 
+t = Tonne 
+UG = Underground 
+WGS84 = World Geodetic System 1984 
+WPI = Wholesale Price Index  
+w.r.t= with respect to 
+ 
+
+--- PAGE 5 ---
+ 
+P a g e 3 | 46 
+ 
+Fl. No. CPAM-34011/28/2019-CPAM [E-343762]  
+Government of India  
+Ministry of Coal 
+[MPS Section] 
+Shastri Bhawan, New Delhi 
+         July, 2026 
+OFFICE MEMORANDUM 
+ 
+Subject: Guidelines for preparation of Mining Plan and Mine Closure Plan for Coal and 
+Lignite Mines, 2026. 
+ 
+Chapter-I 
+Preliminary 
+ 
+1.1. Short title and commencement. - (a) These guidelines may be called the “Guidelines for 
+preparation of Mining Plan and Mine Closure Plan for Coal and Lignite Mines, 2026”. 
+(b) These Guidelines shall come into force 30 days from date of issue of these guidelines. 
+Provided that the Mining Plans uploaded on SWCS portal (https://swcs.coal.gov.in) before 
+coming into force of these guidelines shall continue to be governed by the guidelines dated 
+31.01.2025.  
+(c) The Mine Closure Plan, inclusive of the Progressive Mine Closure Plan and Final Mine 
+Closure Plan, shall constitute an integral component of the Mining Plan. 
+(d) “Guidelines for preparation and approval of Mining Plan for Coal and Lignite Blocks/Mines 
+for Underground Gasification 2026” as amended from time to time shall be an integral part of 
+this guideline.   
+1.2. Objectives: (a) To optimize the extraction of coal and lignite resources that minimize waste 
+generation while maximizing efficiency.  
+(b) To emphasize the importance of systematic and scientific mining, to promote safety and 
+health, to safeguard the interest of workers and local communities, to promote upgradation of 
+infrastructure and adoption of global best technologies. 
+(c) To promote responsible mining practices that support both the coal and lignite industry and 
+the broader ecosystem by incorporating restoration, remediation, and regeneration measures 
+into mining plans for sustainable management of natural resources.  
+(d) To prioritize environmental conservation by monitoring soil, groundwater, and vegetation 
+and implementing measures to improve air, soil and water quality.  
+1.3. Definitions: In these guidelines, unless the context otherwise requires: 
+(a) “Abandoned Mine” means such mine as has been abandoned with no intention of working in 
+the future; 
+(b) “Discontinued Mine” means such mine as has been discontinued for any reason and are 
+inaccessible or rendered inaccessible but are likely to be worked again. 
+
+--- PAGE 6 ---
+ 
+P a g e 4 | 46 
+ 
+(c) “Escrow account” means an account opened by the project proponent in a scheduled 
+commercial bank, facilitating the deposition and withdrawal of funds for mine closure 
+purposes; 
+(d) “First-mile connectivity” means seamless movement of coal from the mine to the dispatch point 
+with minimum road transport and mechanized loading onto railway rakes. It shall also include 
+direct coal transfer to the consumer through conveyors, rails or any other mechanized means; 
+(e) “Leased Area” shall have the same meaning as defined in Section 3 (ac) of MMDR, Act, 1957; 
+(f) “Life of the Mine” means the period starting from the date of receiving mine opening 
+permission and till end of post closure monitoring period; 
+(g) “Mine closure” means the comprehensive process of closing and securing a mine during 
+development and production period and upon completion of post closure monitoring period;  
+(h) “Mine Closure Plan” means a document that includes financial provisions and activities to be 
+implemented towards mine closure during development and production period and till final 
+mine closure; 
+(i) “Minor Changes” shall have the same meaning as prescribed in sub-rule (2) of Rule 22-E of 
+the Mineral Concession Rules, 1960 as amended from time to time; 
+(j) “Post closure monitoring period” means the period of 2 (two) years after completion of the post 
+mining closure period; 
+(k)  “Post mining closure period” means the period of 3 (three) years after cessation of the 
+production activities; 
+(l) “Production Life of the Mine” means the period of development and production years as given 
+in the calendar plan; and  
+(m) “Project Area” means the total area of the mine (as defined in the Occupational Safety, Health 
+and Working Conditions, Code, 2020) specified in the mining plan and includes the area 
+required for overburden dumping and associated infrastructure such as office premises, 
+residential areas, R&R colonies, outside the mining lease area;   
+1.4. Requirement and Applicability:   
+(a) These guidelines supersede all previous guidelines including “Guidelines for preparation of 
+Mining Plan and Mine Closure Plan for Coal and Lignite blocks, 2025” dated 31.01.2025. 
+Provided that the “Guidelines for the Management of discontinued/abandoned/closed mines 
+before the year 2009” dated 28.10.2022 shall continue to remain valid.   
+(b) Every coal or lignite mine shall have a Mining Plan approved by the Coal Controller based on 
+which mining operations shall be carried out .  
+Provided that the Mining Plan of coal/lignite mines of Central Public Sector Undertakings, the 
+State Public Sector Undertakings, Damodar Valley Corporation and SCCL, when the same is 
+prepared by CMPDIL, may be approved by the respective Board. 
+Provided further that Mining plans not required to be approved by the Coal Controller, shall be 
+uploaded on SWCS portal within one month of approval by respective Boards. 
+(c) No coal or lignite block shall be operational without an approved Mining Plan. 
+(d) The approved Mining Plan shall be valid for the life of the mine. 
+
+--- PAGE 7 ---
+ 
+P a g e 5 | 46 
+ 
+Provided that the competent authority may approve any revision(s) or modification(s) of the 
+Mining Plan, and upon such approval, the revised or modified Mining Plan, as the case may 
+be, shall remain valid for remaining part of the life of the mine. 
+(e) These guidelines shall apply to all coal and lignite mines including sand mining for use of 
+stowing in mines and Mining Plans for sand mining for the cited use shall be prepared in 
+accordance with the norms prescribed by the respective states.  
+Provided that in the event that a state has not formulated such norms, a sample format for 
+preparation of Mining Plan and submission of information to the Coal Controller is attached at 
+Appendix-I. The process for approval of such Mining Plan shall be as at Chapter-IV of the 
+guidelines. 
+(f) All abandoned mines and discontinued mines since 27th August 2009 shall achieve mine 
+closure as per provisions of these guidelines.  
+(g) All discontinued mines, abandoned mines and closed mines upto 26th August 2009 shall 
+achieve mine closure as per provisions of “Guidelines for the Management of 
+discontinued/abandoned/closed mines before the year 2009” dated 28.10.2022.  
+(h) All Mining Plans approved under provisions of previous guidelines shall be deemed to have 
+been approved under these guidelines.  
+Provided that any modification or revision in approved Mining Plans shall be in accordance 
+with provisions of these guidelines. 
+(i) A Mining Plan may be formulated for multiple leased areas, or a leased area may have multiple 
+Mining Plans. 
+Chapter-II 
+Mining Plan (excluding mine closure plan) 
+2.1. The Mining Plan shall be formulated as per approved Geological Report. The geological report 
+shall take into account the prevailing ISP norms and guidelines/ directives issued by the Central 
+Government.  
+2.2. Components of Mining Plan:  
+2.2.1. General: 
+(a) The Mining Plan will take into account the project's location, detail of allotment or allocation, 
+previous approval of the Mining Plan (if any), surface features of the block/mine, brief socio-
+economic information.   
+(b) In case of unexplored/ partially explored blocks, the project proponent shall decide the 
+appropriate Mining Method (Opencast or Underground or Mixed Mining and/or Underground 
+Coal Gasification) and suitable technology to carry out mining operations so as to achieve 
+optimum extraction of coal or lignite while ensuring safe and sustainable resource 
+management. The project proponent may provide an analysis as regards arriving on appropriate 
+mining method.  
+(c) Mining Plan shall contain year-wise calendar plan and indicative production of coal or lignite 
+as well as removal of overburden along with stage plan for critical years such as 1st year, 5th 
+
+--- PAGE 8 ---
+ 
+P a g e 6 | 46 
+ 
+year, the year of achieving rated capacity of the mine, 10th year, 30th year and the final year 
+(i.e. at the end of mine life). 
+Provided that a block/mine may increase annual coal production upto rated capacity ahead of 
+the schedule, irrespective of approved calendar plan. 
+Provided further that a block/mine may modify the annual coal production downwards with 
+prior recommendation of competent authority, by providing proper justification. 
+Provided also that the Mining Plan shall include the action plan for the unexplored part of the 
+block, if any, and liquidation of remaining resources to be projectized. 
+(d) The project area envisaged in the Mining Plan must be restricted to the allotted or vested 
+geological block boundary or existing mining lease. A certificate to this effect shall be provided 
+by the Qualified Person (QP) or accredited Mining Plan Preparing Agency (MPPA) that has 
+prepared the Mining Plan.  
+Provided that with permission of the concerned land owner (Central Government or State 
+Government or an individual or any other entity), the project proponent may carry out its 
+activities beyond the allotted or vested geological block boundary or existing mining lease. 
+(e) If any part of an allocated/vested block area cannot be included in the Mining Plan due to 
+constraints such as presence of dense forest (in terms of the Forest Survey of India), dense 
+habitation, rivers, railway lines and other areas that require special permission, such area may 
+be excluded from the Mining Plan. 
+Provided that in case such constraints are removed subsequently, a revised Mining Plan may 
+be submitted for approval. 
+2.2.2. Safety 
+The project proponent shall ensure that due consideration is paid to safety aspects while 
+preparing and submitting the Mining Plan. 
+2.2.3. Mechanization:  
+(a) All mines having peak rated capacity of 2 MTPA or more, shall ensure evacuation of 
+coal/lignite through means of transport other than road, within 5 years of commencement of 
+coal production, in case distance between mine and railway siding/ end user is less than 25 km. 
+Provided that in case transportation by road is not avoidable or the distance is more than 25 km 
+and the same is certified by the concerned District Collector(s), the project proponent may 
+construct dedicated road with minimum involvement of public road.  
+(b) All mines shall ensure that the loading infrastructure is mechanized within 5 years of 
+commencement of coal production. 
+The project proponent may choose mining method involving drilling and blasting in coal 
+extraction (excluding overburden removal) only when blast-free technology is not technically 
+feasible or is commercially unviable and shall provide justification for the same. 
+2.3. Annexures: Along with the Mining Plan, the project proponent shall submit the following 
+documents (as annexures) at the time of submission of the application on the portal: 
+(a) Copy of allotment letter or ownership record. 
+(b) Copy of approval of Board of the company towards submission of Mining Plan. 
+
+--- PAGE 9 ---
+ 
+P a g e 7 | 46 
+ 
+(c) Copy of certificate as regards preparation of Mining Plan by QP/MPPA along with certificate 
+issued for accreditation by QCI-NABET. 
+(d) Copy of approval of Geological Report. 
+(e) Certificate of QP/MPPA to the effect that the Mining Plan has been prepared within the allotted 
+or vested geological block boundary or existing mining lease area. 
+(f) Copy of analysis as regards deciding on appropriate mining method.  
+(g) Preliminary assessment report in case height of mine openings exceeds 3 metres and/or width 
+exceeds 4.8 metres. 
+(h) Justification for not choosing blast-free technology. 
+2.4. The format for formulation of the Mining Plan of Coal/ Lignite is at Appendix—II. 
+ 
+ 
+Chapter-III 
+Mine Closure Plans 
+3.1. Mine Closure Plan aims to ensure scientific mine closure and rehabilitation of mining sites, 
+minimising environmental degradation, safeguarding public health, and promoting sustainable 
+development by restoring the land to a condition suitable for future use or returning it to its 
+near-original state or better, while also holding project proponents accountable for their closure 
+obligations.  
+3.2. Mine closure includes activities such as replanting native or suitable vegetation, restoring water 
+bodies, rehabilitating wildlife habitats and activities related to agriculture, pisciculture, eco-
+park, recreational, landscaping, waterbody conservation or creation as per Mission Amrit 
+Sarovar, irrigation, solar, green energy and green industries including micro, small and medium 
+enterprises. 
+3.3. Backfilling of mine void may form part of mine closure activity only where it is carried out 
+specifically for the purpose of mine closure and not as part of regular mining operation. 
+3.4. Activities undertaken towards just transformation may be audited by third-party agencies 
+appointed by the Central Government (list available at clause 3.14 (vi)). 
+3.5. Mine Closure Plan shall comprise of (a) Progressive Mine Closure Plan, updated every five 
+years, and (b) Final Mine Closure Plan. 
+Provided that five years before cessation of mining operations, the project proponent shall 
+submit a revised final mine closure plan that shall include operational history of the mine, 
+scientific findings, maps/drawings, monitoring data and expenditure from the escrow account. 
+Provided further that while submitting the revised Final Mine Closure Plan, the project 
+proponent shall submit details of the updated cost estimate for various mine closure activities 
+and balance amount in the escrow account. 
+3.6. The Action plan for carrying out all mine closure operations (progressive mine closure as well 
+as final mine closure) should be furnished in the format specified in Appendix-III. 
+3.7. The Final Mine Closure Plan starts towards end of mine life and covers restoring land to its 
+near-original state, repurposing and community development. It includes closure of mine, 
+
+--- PAGE 10 ---
+ 
+P a g e 8 | 46 
+ 
+dismantling and demolition of structures, removal of machinery, plantation, landscaping, 
+specified post-environmental monitoring, protective and restoration measures, barbed wire 
+fencing, and related activities. 
+3.8. Final Mine Closure Plan shall contain a completion report containing operational history, past 
+investigation/study/scientific findings and further action taken, if any; mine working maps, 
+images and drawings; mine water discharge and their uses, GPS coordinates for all salient 
+features, safely accessible open portions of mine workings, dumps, area depillared, partially 
+extracted and standing on pillars. 
+3.9. The Final Mine Closure shall end with post closure monitoring period.  
+3.10. Surrender of mine after partial extraction:  
+(a) In case of surrender of mine after partial extraction, the CMPDIL shall, within a period of 45 
+days from receiving intent of such surrender, prepare a temporary mine closure plan for which 
+the cost shall be borne by Project Proponent.  
+(b) The purpose of such temporary mine closure plan is limited to securing the exposed and mined 
+area from safety point of view taking into account the already approved progressive mine 
+closure plan. 
+(c) The project proponent shall carry out activities mentioned in the Temporary Mine Closure Plan 
+prepared by CMPDIL. For this purpose, the project proponent shall not be allowed to utilize 
+the amount available in the escrow account.  
+(d) The project proponent shall be the custodian of the mine until it is reopened or for a period of 
+five (5) years, whichever is earlier.  
+(e) If the mine is not allotted within five (5) years, final mine closure activities shall be undertaken 
+by CMPDIL utilizing the amount available in the escrow account.  
+3.11. Components of Mine Closure Plan: 
+3.11.1. A zone of impact should be identified in the project area and buffer zone of 10 km from project 
+boundary to address livelihood and income effects due to mine closure. 
+3.11.2. Project proponent shall engage local communities and self-help groups through structured 
+consultations and collaborative decision-making to incorporate their perspectives and develop 
+sustainable solutions.  
+3.11.3. After the closure of mining operations, all social amenities and infrastructure created like 
+hospitals, schools, community centers, office and other buildings should be handed over to the 
+Government or local authorities in consultation with district collector.  
+3.12. Mine Closure Cost: The project proponent shall deposit amount in the escrow account towards 
+mine closure cost as per calculation indicated at 3.13. The project proponent shall indicate 
+breakup of cost towards individual activities (Appendix--III) of progressive mine closure as 
+well as final mine closure.  
+3.13. Escrow Amount: 
+(a) The Project Proponent shall open an escrow account in a scheduled commercial bank followed 
+by a tripartite agreement involving CCO before starting mining operations and shall deposit its 
+contribution towards mine closure for that financial year. 
+
+--- PAGE 11 ---
+ 
+P a g e 9 | 46 
+ 
+(b) The annual rate for deposition towards the escrow account is ₹ 14,00,000 (Fourteen Lakhs per 
+hectare) for opencast mines and ₹ 2,00,000 (Two Lakhs per hectare) for underground mines. 
+These rates shall be the Base Rate as of May 2024 to be escalated on the latest Wholesale Price 
+Index (WPI).  
+Provided that the annual rate for deposition may be revised by the Ministry of Coal. 
+(c) The amount for the first year to be deposited in the escrow account shall be computed by 
+considering the project area multiplied by the escalated rate and dividing the same by the 
+balance production life of the mine in years.  
+(d) The amount as calculated at clause 3.13 (c) shall be compounded @5% annually. 
+Illustration (For OC mines): 
+Total Project Area (Ha) 
+535.72 
+Mine Closure Cost per Ha (May 2024) 
+1400000 
+WPI as on May 2024 (assumed) 
+100 
+Latest WPI available as on date of signing of escrow 
+agreement (assumed) 
+110 
+Total Cost (Cr) 
+(110/100*535.72*1400000)=82.5 
+Production Life of Mine 
+30 
+Amount to be deposited in the first year (Cr) 
+82.5/30=2.75 
+Amount to be deposited in the second year (Cr) 
+2.75*1.05=2.89 
+Amount to be deposited in the third year (Cr) 
+2.75*1.05*1.05=3.03 
+ 
+(e) The project proponent shall deposit the annual amount for 2nd year onwards in the escrow 
+account for each financial year by 30th September of that year.  
+Provided that an interest @ 1 percent/month shall be charged for the delay in deposition of the 
+amount for every delayed month.  
+Provided further that if project proponent fails to deposit the amount within 30th September of 
+subsequent year, the Coal Controller shall suspend Mining Plan and communicate the same to 
+Ministry of Coal, DGMS, MoEF&CC and the respective State Government.  
+Provided also that once the dues are paid, the suspension order shall be revoked and mining 
+operations may restart. 
+Provided also that upon lapse of six months after the suspension order, if project proponent 
+fails to clear the dues, the Central Government may, on recommendation of the Coal Controller, 
+withdraw approval of the Mining Plan. 
+3.14. Reimbursement from Escrow Account:  
+(i) Claim for reimbursement from the escrow account may be made by the project proponent up 
+to 50% of the total deposited amount in the previous year (excluding interest accrued) based 
+on work done towards progressive mine closure.  
+(ii) Such claim shall be based on self-certification by authorized official of the company and shall 
+be submitted on or before 31st March of subsequent financial year.   
+(iii) While submitting the claim, videos and georeferenced images of the work done shall be 
+submitted to the office of the Coal Controller for records.  
+
+--- PAGE 12 ---
+ 
+P a g e 10 | 46 
+ 
+(iv) The coal controller shall, within one month of receipt of claim from the project proponent, 
+allow withdrawal of amount.  
+(v) Every sixth year, eleventh year, sixteenth year and so on, reimbursement from the escrow 
+account may be made to the project proponent up to 50% of the total accumulated amount 
+(excluding interest accrued) based on work done towards progressive mine closure. 
+Provided further that in such years, no annual reimbursement in terms of sub clause 3.14. (i) 
+will be applicable. 
+(vi) Before submission of claim for withdrawal from the escrow account in terms of sub clause (v) 
+above, the project proponent shall get the same verified through one of the following agencies: 
+a. 
+Central Mine Planning and Design Institute (CMPDIL) 
+b. 
+Indian Institute of Technology(ies) or National Institute of Technology (ies) 
+or Engineering colleges controlled by central/state government offering 
+graduate/post-graduate degrees in mining or environmental science 
+c. 
+National Environmental Engineering Research Institute (NEERI) 
+d. 
+Any other agency authorized by the Central Government from time to time. 
+(vii) These agencies shall also scrutinize the claim of the project proponent by comparing with 
+Mining Plan. 
+(viii) After submission of claim by project proponent, the steps enumerated at sub clauses 3.14 (ii, 
+iv) above shall be followed. 
+(ix) An illustration as regards the deposition of funds in the escrow account and withdrawal thereof 
+is attached in Appendix-IV.  
+(x) 
+Submission of claims, uploading of report on verification and scrutiny by authorized agencies 
+( 3.14(vi))  and intimation about scrutinized amount to the project proponent by coal controller 
+shall be done through the dedicated portal.  
+(xi) A minimum of 25% of the balance amount in the escrow account every five-yearly period shall 
+be utilised for community development and livelihood-related activities. An indicative list of 
+activities has been is given in Appendix-V. 
+For Mining Plans already approved, the coal controller shall issue modification to the existing 
+Mining Plans in terms of clause (d) of para 5.1. 
+(xii) 90 percent of the balance amount in the escrow account at the end of the post-closure 
+monitoring period shall be released to the project proponent on completion of all activities of 
+mine closure. 10 percent of the balance deposited amount from final mine closure cost is to be 
+spent towards Just Transformation,  in consultation with district administration, local authority 
+and stakeholders for skill development, sustained livelihood and employment generation etc. 
+(xiii) If the Coal Controller has reasonable grounds for believing that the measures envisaged in the 
+approved mine closure plan will not be carried out, the Coal Controller shall give the Project 
+Proponent a written notice of intention to forfeit the amount in the escrow account.  
+Provided that the decision on such forfeiture shall be made only with the approval of the Central 
+Government. 
+
+--- PAGE 13 ---
+ 
+P a g e 11 | 46 
+ 
+(xiv) The Project Proponent may re-appropriate funds amongst approved mine closure activities with 
+prior intimation to the Coal Controller. 
+3.15. Mine Closure Certificate: CCO shall issue the mine closure certificate after the post-closure 
+monitoring period based upon the undertaking by the project proponent and third-party audit 
+report (appointed by the project proponent from a list of agencies as indicated at clause 3.14 
+(vi)) within a period of 30 days of receipt of such report. 
+Provided that the third-party auditor shall verify that the mine has been closed in all respects 
+as per the Final Mine Closure Plan. 
+Chapter-IV 
+Formulation, submission, scrutiny, approval, revision, and timelines   
+4.1. Project Proponent shall ensure that the Mining Plan has been prepared by the Qualified Person/ 
+Accredited Mining Plan Preparing Agency recognised under section 22B of the Mineral 
+Concessions Rules, 1960, as amended from time to time. 
+4.2. Every Mining Plan submitted for approval or revision shall be accompanied by a non-
+refundable application fee of ₹ 1,00,000 (One Lakh Rupees), which may be revised by the 
+Central Government from time to time.  
+4.3. Vide notification no. CG-DL-E-01062020-219668 dated 29th May 2020 of the Ministry of 
+Coal, the Coal Controller has been authorised to approve the Mining Plan under sub-section 
+(1) of section 26 read with clause (b) of sub-section (2) of section 5 of the Mines and Minerals 
+(Development and Regulation) Act, 1957 (67 of 1957).  
+4.4. For carrying out its functions as required under clause 4.3, the Coal Controller shall be assisted 
+by a Technical Committee that shall scrutinise and examine the Mining Plan submitted by the 
+project proponent. After the scrutiny and examination, the committee shall recommend the 
+Mining Plan to the Coal Controller for "Approval" or "Rejection".  
+4.5. The Technical Committee shall consist of:  
+a) Deputy Coal Controller - Member Secretary (In case of vacancy, the Coal Controller 
+may designate a suitable officer)  
+b) Director (Technical), MPS, Ministry of Coal- Member 
+c) One officer nominated by Coal Controller. No officer shall serve as member of the 
+committee for more than a year- Member 
+d) An officer not below the rank of General Manager from CMPDIL (nominated by CMD, 
+CMPDIL) in case Mining Plan is not prepared by CMPDIL. No officer shall serve as 
+member of the committee for more than a year- Member 
+4.6. The members of the Technical Committee shall scrutinise the Mining Plan and submit 
+comments thereof within fifteen (15) days of submission of the Mining Plan on the portal. Non-
+submission of comments by a member within such period shall imply that the member has no 
+comments to offer.  
+
+--- PAGE 14 ---
+ 
+P a g e 12 | 46 
+ 
+4.7. On receipt of the comments, the project proponent may consider incorporating the same in the 
+Mining Plan and shall resubmit the modified Mining Plan, within a period of 30 days of expiry 
+of the period mentioned in clause 4.6. 
+Provided that in case the modified Mining Plan, considering the suggestions of members of the 
+Technical Committee, is not resubmitted within such period, the Technical Committee may 
+recommend rejection of the application. 
+Provided further that an opportunity of being heard shall be given to Project Proponent before 
+rejecting application for approval of Mining Plan.  
+4.8. After the modified Mining Plan has been submitted, a meeting of the Technical Committee 
+shall be convened within 15 days of submission under clause 4.7, wherein the project proponent 
+shall make a presentation before the Technical Committee.     
+4.9. Technical Committee shall circulate the approved minutes within 7 days of the meeting under 
+clause 4.8.  
+4.10. The Project Proponent shall incorporate decisions communicated as per minutes of the meeting 
+of Technical Committee and resubmit the Mining Plan within 15 days of issue of minutes of 
+the meeting. 
+4.11. After final submission of the Mining Plan, a virtual/physical meeting of the Technical 
+Committee may be convened to recommend the approval or rejection of the Mining Plan, 
+taking into consideration the recommendations contained in minutes of the meeting. 
+4.12. In case of recommendation for rejection, the Technical Committee shall accord the project 
+proponent an opportunity of being heard before its recommendation. The Technical Committee 
+shall record reasons for the rejection. 
+4.13. After the Technical Committee recommends approval/rejection of the Mining Plan, the Coal 
+Controller shall communicate its decision within 5 days of such recommendation.  
+4.14. Circulation of Approved Mining Plan: CCO shall circulate a soft copy of the approved 
+Mining Plan along with the approval letter to the Ministry of Environment, Forest and Climate 
+Change, DGMS, CGWB, State Directorate of Geology and Mining department and District 
+Administration. 
+4.15. Any person aggrieved by any orders made or directions issued in respect of the Mining Plan 
+by the Coal Controller may apply to the Secretary, Ministry of Coal, for revision of such order 
+made or directions issued thereon. 
+Provided that such application shall be made within a period of 30 (thirty) days of such order 
+made or such direction issued. 
+ 
+Chapter-V 
+Miscellaneous  
+ 
+5.1. 
+Modification or Revision of the Mining Plan:  
+(a) Modifications (minor changes) can be done with the approval of the Board of the 
+respective company.  
+
+--- PAGE 15 ---
+ 
+P a g e 13 | 46 
+ 
+Provided that any such modifications shall be communicated to the Coal Controller 
+within 30 days of such approval.  
+(b) Revisions (other than minor changes), based on the application in this regard by the 
+project proponent, shall be done only after approval of the Coal Controller. 
+Provided that no revisions shall be approved by the Coal Controller without prior 
+approval of the Nominated Authority if such revisions result in changes in the terms & 
+conditions or efficiency parameters mentioned in CMDPA/CBDPA/LBDPA. 
+(c) An application for Revision of the Mining Plan shall be accompanied by an undertaking 
+to the effect that there have been no violations during the course of mining operations 
+as regards safety, environment and lease-related matters.  
+Provided that in case of violations related to safety (as reported by DGMS), leased area 
+(as reported by State Government authorities), Environment (as reported by 
+Central/State environment authorities), the Project Proponent shall ensure that 
+mitigative measures for such violations are proposed by the project proponent in the 
+application.  
+Provided further that the Coal Controller or the Technical Committee may require the 
+Project Proponent to make a presentation explaining the Revisions. 
+(d) Notwithstanding anything contained in clause 5.1. (a), (b) & (c), the Coal Controller 
+may modify or revise Mining Plan based on directions issued by the central 
+government. 
+5.2. 
+A report shall be submitted by the project proponent with respect to compliance with the 
+Mining Plan, including deviations, if any, annually to the Coal Controller.  
+5.3. 
+Through a joint application of project proponents of adjoining mines, a proposal may be 
+submitted for extraction of barrier coal.  
+5.4. 
+Through mutual agreement, one mine may utilize void/ land of some other mine for purpose 
+of handling overburden, subject to requisite approvals/clearances. 
+5.5. 
+Mine Repurposing Advisory Committee: A Mine Repurposing Advisory Committee will be 
+set-up in every district where mining operations are carried out in order to oversee 
+implementation of community development and livelihood plan. The Committee shall consist 
+of: 
+a) District Collector, or District officer (as authorised by D.C.) - Chairperson  
+b) Sarpanch/Secretary of Local Gram panchayat – Member  
+c) Representative of reputed NGO (in consultation with D.C.) – Member  
+d) Nodal Officer (Mine Closure) of concerned coal mining company – Member  
+e) Agent of the mine – Member 
+f) Chairperson may nominate two other members, one of which shall be a forest official. 
+Roles of Committee: 
+a) Facilitating periodical meetings and open forums to collaboratively envision and co-
+create sustainable ideas, consultations, and collaborative decision making. 
+
+--- PAGE 16 ---
+ 
+P a g e 14 | 46 
+ 
+b) Promoting initiatives that build local knowledge, skills, and resources, such as training 
+programs or alternative livelihood projects, to help the community transition 
+successfully post-mining.  
+c) Ensuring engagement of local communities and self-help groups in Operation & 
+Maintenance of the project and public spaces.  
+d) Ensuring greening of project area through best suited species of plantation and 
+sustainable tourism practices by promoting Geo-Tourism.  
+e) Proactive participation of local community in the domain of selecting skills to be 
+developed to generate alternate economic resources to ensure ‘just-transition’. 
+f) Promote transparency and accountability in community-driven initiatives. 
+5.6. 
+The district administration may create market mapping of skills, merge income-generating 
+schemes and utilise the District Mineral Fund (DMF). 
+5.7. 
+Though not mandatory, the project proponent may incorporate the following in the Mining 
+Plan: 
+(a) Make in India: Place a strong emphasis on sourcing indigenous machinery or equipment 
+featuring locally manufactured components.  
+(b) Green Energy and Emission Reduction: Actively strive to meet emission reduction in annual 
+greenhouse gas emissions through renewable sources.   
+(c) Clean Mobility in Mining Operations: Actively promote deployment of electric vehicles (EVs) 
+and gas-based vehicles within coal mine operations.  
+(d) Automation: Look toward the future of mining by exploring and integrating autonomous Heavy 
+Earth Moving Machinery (HEMM) within their sites. 
+(e) Use of blast-free mining technologies (such as longwall/continuous miner) in underground 
+mines. 
+5.8. 
+Removal of difficulties: Interpretation of the Ministry of Coal as regards provisions of the 
+Guidelines shall be final and binding. 
+5.9. 
+In the interest of the development of the coal or lignite blocks, the Ministry of Coal may relax 
+or modify any of the provisions of these guidelines. 
+5.10. In the event of any inconsistency or ambiguity between the provisions of these Guidelines and 
+the Appendices annexed hereto, the provisions of these Guidelines shall prevail and shall be 
+binding to the extent of such inconsistency or ambiguity. 
+5.11. These Guidelines are without any prejudice to any other relevant rules and regulations issued 
+by concerned government authorities. 
+ 
+*************** 
+ 
+ 
+ 
+ 
+
+--- PAGE 17 ---
+ 
+P a g e 15 | 46 
+ 
+Appendix-I 
+SAMPLE FORMAT FOR PREPARATION OF MINING PLANS FOR SAND 
+MINING FOR USE OF STOWING IN MINES 
+A. Cover Page 
+The Cover page should contain the following information: 
+I. 
+Name of the Mining Plan and Mine Closure Plan 
+II. 
+Mineral Type: Sand for Stowing, 
+III. 
+Planned Production:  
+IV. 
+Block area/Project area/Proposed area  
+V. 
+Name of Village, District and State 
+B. Contents 
+S. No. 
+Subject 
+Page 
+No. 
+1 
+Index 
+ 
+2 
+Abbreviations 
+ 
+3 
+Index for Main Text 
+ 
+4 
+List of Annexures 
+ 
+5 
+List of Plates 
+ 
+6 
+Check List 
+ 
+7 
+Sustainable sand mining management guidelines 2016 Checklist 
+ 
+8 
+Summarized Data 
+ 
+9 
+Text 
+ 
+ 
+C. Abbreviations Used 
+D. MAIN TEXT IN TABULAR FORM  
+Chapter 1: Introduction 
+(Objective, Project Details, location, & location map, Positive Impact of Cleaning the 
+river bed by lifting the sand in the coal mining area, Historical Background of Sand 
+Mining Lease, Status of Statutory Clearances, Relevance to MOEF and CC 
+Sustainable Sand Mining Guidelines 2020, Name of applicant, Status of Applicant, 
+Mineral which is occurring in the area and which is to be mined, Period for which the 
+Mining lease is granted, Name of QP/MPPA preparing the Mine plan, Infrastructure, 
+Location and approach, Name of prospecting agency, Date of grant of Lease from the 
+state Government) 
+Chapter 2: Geology and Exploration 
+(Geomorphological Study, General Profile of Last 50 Years, Annual Deposition Factor, 
+Replenishment, Geological Reserve and Grade, Anticipated Life of Mine) 
+
+--- PAGE 18 ---
+ 
+P a g e 16 | 46 
+ 
+Chapter 3: Mining 
+(Year wise development plan, Year wise Production, Proposed Rate of Production 
+when mine is fully developed, Mineable reserve and anticipated life of mine, Proposed 
+mining method, Dry Pit Channel Mining as per MoEFCC Guidelines,  Security, Post 
+Mining Reclamation and Land Use Pattern,  
+Chapter 4: Blasting 
+Chapter 5: Mine Drainage 
+Chapter 6: Stacking of Mineral Rejects and Disposal of waste 
+Chapter 7: Use of Mineral 
+Chapter 8: Others 
+Chapter 9: Mineral Processing 
+Chapter 10: Progressive Mine Closure Plan 
+Statutory Obligation, Closure Plan Preparation, Mined out land, Water Quality 
+Management, Air Quality Management, Waste Management, Top Soil Management, 
+Tailing Dam Management, Infrastructure, Disposal of Mining Machinery, Safety and 
+security, Disaster Management and Risk Assessment,  
+E. LIST OF ANNEXURES 
+a. Copy of allotment order Vesting order. 
+b. Certificate that the project boundary considered for the Mining plan is in 
+coherence with the block boundary vested with the allottee. 
+c. Approvals of Mine Closure plan from the Board of the company. 
+d. Copy of earlier approval of Mining Plan. 
+e. Replenishment Study 
+F. LIST OF PLATES 
+a. Key Plan/Location Plan 
+b. Lease Plan 
+c. Surface Plan 
+d. Working Plan 
+e. Closure Plan 
+f. Geo Referenced Cadastral Plan 
+g. River Cross section Plan 
+h. KML Plan 
+ 
+ 
+
+--- PAGE 19 ---
+ 
+P a g e 17 | 46 
+ 
+ 
+Appendix- II 
+DETAILS TO BE FURNISHED IN THE MINING PLANS FOR COAL/LIGNITE 
+BLOCKS 
+A. Cover Page 
+The Cover page should contain the following information: 
+(i) 
+Name of the Mining Plan and Mine Closure Plan /Final Mine Closure Plan 
+(ii) 
+Indication: If it is a Revised Mining plan seeking approval under Rule 22E of MCR 
+1960, it should be marked as "Revised Mining Plan with Revision No." i.e. First 
+Revision, Second Revision etc. 
+(iii) Name of the Coal/ Lignite Block area (Hectare) 
+(iv) Name of the Coalfield and its location i.e., District(s) and State(s) 
+(v) 
+Name and address of the Applicant 
+(vi) Targeted capacity 
+a. Rated capacity  
+ 
+ 
+:in___ MTPA 
+b. Peak Capacity (@ 150% of the rated capacity): in  
+___ MTPA 
+(vii) Name of the Qualified person/Accredited Mining Plan preparing agency 
+(MPPA) preparing the Mining Plan with details  
+B. Content of Chapters of the Mining Plan (Including Mine Closure Plan) / Mine 
+Closure Plan or Final Mine Closure Plan 
+Sl. No. 
+Chapters 
+Page No. 
+1 
+Checklist 
+ 
+2 
+Project Information 
+ 
+3 
+Exploration, Geology, Seam Sequence, Coal Quality 
+and Reserve 
+ 
+4 
+Mining 
+ 
+5 
+Safety Management 
+ 
+6 
+Infrastructure Facilities proposed and their Location 
+ 
+7 
+Land Requirement 
+ 
+8 
+Environment Management 
+ 
+9 
+Progressive and Final Mine Closure Plan 
+ 
+C. 
+List of Annexure 
+D. 
+List of Plans/ Drawings Attached enclosed as Plates 
+E. 
+List of Abbreviations used. 
+ 
+ 
+ 
+ 
+
+--- PAGE 20 ---
+ 
+P a g e 18 | 46 
+ 
+ 
+CHECKLIST 
+ 
+Details 
+(✔/✘) 
+Text 
+Project Information 
+ 
+Text 
+Exploration, Geology, Seam Sequence, Coal Quality and Resource 
+ 
+Text 
+Mining 
+ 
+Text 
+Safety Management 
+ 
+Text 
+Infrastructure Facilities proposed and their Location 
+ 
+Text 
+Land Requirement 
+ 
+Text 
+Environment Management 
+ 
+Text 
+Progressive and Final Mine Closure Plan 
+ 
+Annexure-I 
+Copy of allotment letter or ownership record 
+ 
+Annexure-II 
+Copy of approval of Board of the company towards submission of 
+Mining Plan. 
+ 
+Annexure-
+III 
+Copy of certificate as regards preparation of Mining Plan by QP/MPPA 
+along with certificate issued for accreditation by QCI-NABET. 
+ 
+Annexure-IV Copy of approval of Geological Report. 
+ 
+Annexure-V 
+Certificate of QP/MPPA to the effect that the Mining Plan has been 
+prepared within the allotted or vested geological block boundary or 
+existing mining lease area. 
+ 
+Annexure-VI ) Copy of analysis as regards deciding on appropriate mining method.  
+ 
+Annexure-
+VII 
+Preliminary assessment report in case height of mine openings exceeds 
+3 metres and/or width exceeds 4.8 metres 
+ 
+Annexure-
+VIII 
+Justification for not choosing blast-free technology 
+ 
+Annexure-
+…. 
+Other document (if any) 
+ 
+ 
+ 
+Details 
+(✔/✘) 
+Plates Location plan 
+ 
+Plates 
+A combined plan showing the required ML, Block Boundary, and 
+Project Boundary. Certification on the conceptual plan must show all 
+three. 
+ 
+
+--- PAGE 21 ---
+ 
+P a g e 19 | 46 
+ 
+Details 
+(✔/✘) 
+Plates Plan showing the Block Boundary proposed as per DGPS coordinates 
+given by CMPDIL or the block boundary delineated through DGPS 
+Survey and certified by CMPDIL. QP/MPPA shall also certify the 
+same. 
+(i) if the block boundary and project area are the same, QP/MPPA shall 
+certify that the allocated block boundary/existing mining lease and 
+project area are the same. 
+(ii) where the project area extends beyond the block boundary, a Plan 
+certified by a Qualified person/ Accredited Mining Plan preparing 
+agency (MPPA). Provided that with permission of the concerned land 
+owner (Central Government or State Government or an individual or 
+any other entity), the project proponent may carry out its activities 
+beyond the allotted or vested geological block boundary or existing 
+mining lease. 
+(iii) Plan showing, if any part of an allocated/vested block area cannot 
+be included in the Mining Plan due to constraints such as presence of 
+dense forest (in terms of the Forest Survey of India), dense habitation, 
+rivers, railway lines and other areas that require special permission. 
+Such area may be excluded from the Mining Plan. 
+ 
+ 
+Plates A printed copy of the KML file superimposed in the recent (not older 
+than one year from the base date) dated satellite Image duly certified 
+by an Accredited Agency should also be attached. 
+Note: The soft copy of the KML file shall also be part of the Mining 
+Plan. 
+ 
+Plates Cadastral plan showing approved block boundary vis-a-vis 
+proposed/existing mining lease and Mine boundary superimposed over 
+it in distinct colour, showing land use and infrastructure etc. 
+ 
+Plates Geological plan showing all the boreholes drilled and proposed to be 
+drilled showing allotted block boundary and required lease area 
+ 
+Plates Representative Graphic Litholog 
+ 
+Plates Surface Plan showing drainage system, Contour, preferably at 3m 
+interval, location of BH (borehole) 
+ 
+Plates Conceptual plan showing activities related to the project such as 
+infrastructure facilities including colony, boundary of mining area, 
+mine entries, roads including road diversion alignment etc. 
+ 
+Plates Tentative land use plan showing land type (Govt., forest and tenancy 
+land) with its data source 
+ 
+Plates Floor contour plan(s) and seam folio plan(s), iso-grade plan(s) 
+ 
+Plates Cross-section showing coal/lignite seam(s) 
+ 
+Plates Plan showing existing and proposed surface layout(s) 
+ 
+
+--- PAGE 22 ---
+ 
+P a g e 20 | 46 
+ 
+Details 
+(✔/✘) 
+Plates Plan showing total coal thickness and overburden thickness and 
+stripping ratio (in case of opencast (OC) Mines) 
+ 
+Plates Final stage quarry plan showing haul road alignment (in case of OC 
+Mines) 
+ 
+Plates Plan showing mode and location of entries and surface layouts (in case 
+of underground (UG) Mines) 
+ 
+Plates Layout of the panel for each system (like Longwall, Continuous 
+Miner, Bord and Pillar, road header etc.) should be given (in case of 
+UG Mines) 
+ 
+Plates Layout of pillar extraction (in case of UG Mines) 
+ 
+Plates Post-mining land use plan 
+ 
+Plates Progressive mine closure plan/ stage plans 
+ 
+Plates Year 30 Stage Plan  
+ 
+Plates Reclamation plan for which detailed planning has been done  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 23 ---
+ 
+P a g e 21 | 46 
+ 
+Chapter 1: PROJECT INFORMATION 
+ 
+ 
+Parameters 
+Details 
+1.1 
+INTRODUCTION 
+1.1.1 Name of Coal / Lignite mine or block 
+ 
+1.1.2 Name of Coalfield/ Lignite field  
+ 
+1.1.3 Linked End Use Plant 
+ 
+1.1.4 Distance of End use plant from the pit head of the project in "km" 
+ 
+1.1.5 Mode of Coal Transport/Despatch 
+ 
+ 
+1.2  
+LOCATION, TOPOGRAPHY AND COMMUNICATION 
+ 
+1.2.1 
+Location of coal mine/block (District and State) 
+ 
+1.2.2 
+Communication: PWD roads, railway lines, Air 
+ 
+1.2.3 
+Availability of power supply, water etc. 
+ 
+1.2.4 
+Prominent physiographic features, drainage pattern, natural water 
+courses, rainfall data, highest flood level 
+ 
+1.2.5 
+Important surface features within the project area and major 
+diversion or shifting involved 
+ 
+ 
+1.3 
+DETAILS OF THE ALLOTMENT AGREEMENT 
+ 
+1.3.1 
+Name of the Allottee 
+ 
+1.3.2 
+Details of allotment/ vesting order 
+ 
+1.3.3 
+Name and address of the applicant 
+Regd. Office 
+ 
+Principal Place 
+of Business 
+1.3.4 
+Name of the Previous Allottee of the Block 
+ 
+1.3.5 
+Date of Mining Opening permission  
+ 
+1.3.6 
+Rated Capacity as per Coal Mines Development & 
+Production Agreement 
+ 
+1.3.7 
+Production Schedule as per opening permission 
+(meeting provisions of CMDPA, if any) 
+ 
+1.3.8 
+End Use of Coal/Lignite as per allotment order if any  
+1.3.9 
+Cardinal Point co-ordinates (WGS84) of the Block 
+boundary 
+ID 
+Latitude  
+Longitude 
+1 
+ 
+ 
+2 
+ 
+ 
+ 
+
+--- PAGE 24 ---
+ 
+P a g e 22 | 46 
+ 
+ 
+ 
+1.4  
+DETAILS OF THE PREVIOUS APPROVAL OF MINING PLAN 
+ 
+ 
+1.5  
+PARAMETERS OF APPROVED MINING PLAN VIS-A-VIS PROPOSED 
+MINING PLAN 
+ 
+ 
+Parameters 
+Approved Mining 
+Plan 
+Proposed 
+Mining Plan 
+1.5.1 
+Allocated Block Area in "Ha" 
+ 
+ 
+1.5.2 
+Allocated Block Area Projectised "Ha" 
+ 
+ 
+1.5.3 
+Proposed Mining Lease area "Ha" 
+(Besides, Mineralised zone Lease area may encompass 
+other areas under the definition of a mine) 
+ 
+ 
+1.5.4 
+Project Area "Ha" 
+ 
+ 
+1.5.5 
+Life of the Project "Yrs" 
+ 
+ 
+1.5.6 
+Minimum and Maximum Depth of working "m" 
+ 
+ 
+1.4.1 
+Whether any Mining Plan has been previously approved  
+1.4.2 
+Approval Reference, with Date 
+ 
+1.4.3 
+Conditions, if any, and compliance 
+ Sl. 
+No. 
+Conditions  Compliance 
+1. 
+ 
+ 
+2. 
+ 
+ 
+1.4.4 
+Scheduled year of start of production 
+ 
+1.4.5 
+Proposed year of achieving the targeted production 
+ 
+1.4.6 
+Date of actual commencement of mining operations, if 
+operations already started 
+ 
+1.4.7 
+Likely date of mining operations, if operations not yet 
+started and reasons for non-commencement of 
+operations 
+ 
+1.4.8 
+Planned production and actual levels achieved in last 3 
+(financial year) years (Coal in Mt, OB in Mm3, SR in 
+M3/t) and in current year till base date 
+ 
+Year 
+Coal "Mt" OB 
+"MM
+3" 
+ 
+m
+UG OC 
+Year 1, Planned 
+ 
+ 
+ 
+Year 1, Actual 
+ 
+ 
+ 
+Year 2, Planned 
+ 
+ 
+ 
+Year 2, Actual 
+ 
+ 
+ 
+Year 3, Planned 
+till base date 
+ 
+ 
+ 
+Year 3, Actual till 
+base date 
+ 
+ 
+ 
+1.4.9 
+Reasons for difference between the planned and actual 
+production levels 
+ 
+
+--- PAGE 25 ---
+ 
+P a g e 23 | 46 
+ 
+ 
+Parameters 
+Approved Mining 
+Plan 
+Proposed 
+Mining Plan 
+1.5.7 
+Geological Block "Ha" 
+ 
+ 
+1.5.8 
+Production Target "MTPA" 
+ 
+ 
+1.5.9 
+Seams Available "As per GR" 
+ 
+ 
+1.5.10 Seams not considered for Mining with Reasons 
+ 
+ 
+1.5.11 Gross Geological Reserve  "Mt" (as per GR,) 
+ 
+ 
+1.5.12 Net Geological Reserve "Mt" (as per GR) 
+ 
+ 
+1.5.13 Blocked Reserve "Mt" 
+ 
+ 
+1.5.14 Minable Reserve "Mt" 
+ 
+ 
+1.5.15 Extractable Reserve "Mt" 
+ 
+ 
+1.5.16 % of Extraction/ recovery 
+ 
+ 
+1.5.17 Production till date (till the base date of the proposed 
+Mining Plan) Reserve " Mt" 
+ 
+ 
+1.5.18 Balance Extractable Reserve "Mt" 
+ 
+ 
+1.5.19 Average Grade 
+ 
+ 
+1.5.20 OB in Mm3 
+ 
+ 
+1.5.21 SR Mm3/t 
+ 
+ 
+1.5.22 Mining Technology 
+ 
+ 
+1.5.25 Land use pattern "Ha" 
+ 
+ 
+i. 
+ Excavation Area 
+ 
+ 
+ii. 
+ Top Soil Dump Area 
+ 
+ 
+iii. 
+ External Dump Area 
+ 
+ 
+iv. 
+ Safety Zone  
+ 
+ 
+v. 
+ Other Use 
+ 
+ 
+vi. 
+ Infrastructure area 
+ 
+ 
+vii. 
+ Green Belt 
+ 
+ 
+viii. 
+ Undisturbed Area 
+ 
+ 
+ 
+Total 
+ 
+ 
+1.5.26 Reasons for revision 
+ 
+ 
+1.6.: SUSTAINABILITY (Indicative) 
+ 
+Parameters 
+ 
+1.6.1 
+No. of Project Affected People (PAPs) 
+ 
+1.6.2 
+No. of Skilled/Semi Skilled /Unskilled persons profession wise, gender 
+wise, age wise and location wise 
+ 
+1.6.3 
+No. of persons in Vulnerable Groups (Women, Children, Handicap etc.) 
+ 
+
+--- PAGE 26 ---
+ 
+P a g e 24 | 46 
+ 
+ 
+Parameters 
+ 
+1.6.4 
+Repurposing of land proposed   
+ 
+1.6.5. 
+Tentative measures to curtail GHG emissions 
+ 
+ 
+Chapter 2: Exploration, Geology, Seam Sequence, Coal Quality And Resource 
+ 
+Parameters 
+Details 
+2.1 
+DETAILS OF THE BLOCK 
+2.1.1 Name of the Geological Report with 
+month and year of preparation,  
+ 
+2.1.2 Particulars of adjacent Area/ blocks: 
+North, South, East, West 
+North : 
+South:  
+East:  
+ 
+West: 
+2.1.3 Area of the geological block projectised 
+"in Ha" (Area of the geological block 
+considered for liquidation of coal 
+resource) 
+ 
+2.1.4 Balance area yet to be projectised "Ha" 
+ 
+2.1.5 Likely geological Resource in the area 
+yet to be projectised "MTPA" 
+ 
+2.1.6 Cardinal Point Co-ordinates of the non-
+coal/lignite bearing area/ Coal/lignite 
+bearing area within the existing mining 
+lease outside the allotted Geological 
+Coal/Lignite block. 
+ 
+Cardinal Point Co-ordinates of the non-coal 
+(lignite) or coal (lignite) bearing area/exiting 
+mining lease outside the allotted Geological 
+Coal/Lignite block, which is proposed to be 
+included in the project area 
+ID 
+Latitude 
+Longitude 
+1 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+2.1.7 Certificate 
+of 
+Qualified 
+person/ 
+Accredited 
+Mining 
+Plan 
+preparing 
+agency (MPPA) if the project area is 
+confined within the vested/ allotted 
+block boundary/ existing mining lease  
+ 
+Cardinal Points Co-ordinates of the Proposed 
+Lease Area considered in the Mining Plan 
+ID 
+Latitude 
+Longitude 
+1 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.8 KML file of the Proposed lease area, 
+Project Area and geological block. 
+Note: Printed copy of the KML file superimposed 
+in the recent (not older than one year from the base 
+date) dated satellite Image duly certified by 
+Accredited Agency should also be attached. 
+
+--- PAGE 27 ---
+ 
+P a g e 25 | 46 
+ 
+ 
+Note: The soft copy of the KML file shall also be 
+part of the soft copy of the Mining Plan. 
+2.1.9 Whether the proposed project area is 
+confined within the allotted block 
+boundary/existing mining lease, if not, 
+the reason for deviation from allotted 
+block boundary, may be given. 
+ 
+2.1.10 Type of the Project (Operating under 
+implementation) and year of Starting. 
+ 
+ 
+2.2 
+EXPLORATION, GEOLOGY AND ASSESSMENT OF RESERVE 
+2.2.1 Status of Exploration of the block 
+ 
+2.2.2 Area covered by 'detailed' exploration within the block (sq. 
+km) 
+ 
+2.2.3 Whether entire lease area has been covered by `detailed' 
+exploration. 
+ 
+2.2.4 No. of boreholes drilled within the mining area of the block   
+2.2.5 Whether any further exploration/study is required or 
+suggested and time frame in which it is to be completed 
+ 
+2.2.6 Year wise future programme of exploration 
+ 
+2.2.7 Overall borehole density within the mining area (no./ sq. km) 
+approx. 
+ 
+2.2.8 Seams not considered for Mining with Reasons 
+ 
+2.2.9 Dip of the Seam 
+ 
+2.2.10 Seam wise thickness, depth and reserve 
+ 
+Seam Thicknes
+s range, 
+m 
+Depth 
+Range, 
+m 
+Net 
+Geologic
+al 
+reserve 
+'Mt'  
+Blocked Resources below 
+Mineable 
+Resource 
+'Mt' 
+Mining 
+Losses 
+Highw
+all/ 
+Batter 
+Surface 
+features 
+Barri
+er 
+Un-
+economic 
+Total 
+Blocke
+d 
+UG  OC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seam 
+Extractable 
+Reserve "Mt" 
+As on base date "Mt" 
+Reason not considered 
+for mining 
+Depletion of 
+Reserve 
+Balance Reserve 
+
+--- PAGE 28 ---
+ 
+P a g e 26 | 46 
+ 
+ 
+ 
+ 
+Parameters 
+Details 
+3.1 
+MINING METHOD 
+3.1.1 Existing method of 
+mining if the mine is 
+under operation 
+ 
+UG  OC Highw
+all 
+UG OC High
+wall 
+UG  O
+C 
+Highw
+all 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note : Break-up of the geological reserve for the block, considered in the proposed Mining 
+Plan, to be projected later and that likely to be sterilized to be given seam wise along with 
+the relevant plans. 
+ 
+2.2.11 Methodology of resources estimation (also mention if any 
+software package has been used). 
+(In Maximum 500 Words) 
+2.2.12 Average GCV "KCal/kg" 
+ 
+2.2.13 Gross Geological Reserve of the block "Mt" 
+ 
+2.2.14 Net Geological Reserve of the block "Mt" 
+ 
+2.2.15 Minable Reserve of the block "Mt" 
+ 
+2.2.16 Blocked Reserve “Mt” 
+ 
+2.2.17 Corresponding extractable Reserve of the block "Mt" 
+ 
+2.2.18 Percentage of Extraction 
+ 
+2.2.19 Resource already depleted (Base date of Mining Plan) 
+ 
+2.2.20 Balance Resource (as on Base Date)  
+ 
+
+--- PAGE 29 ---
+ 
+P a g e 27 | 46 
+ 
+3.1.2 Proposed 
+method 
+of 
+mining with justification 
+on suitability of method 
+of mining. 
+• Seams to be worked, Choice of Mining Method and 
+justification for Optimization of targeted capacity, sequence of 
+mining, production scheduling, equipment configuration etc.  
+• Behaviour of coal roof and floor and support system for strata 
+control 
+including, 
+Geo-technical 
+investigations, 
+rock 
+mechanics study carried out already, if any, Scheme of mine 
+development in tandem with production, transport and winding 
+system in underground for coal and rock (if required) and 
+personnel; Sources of stowing material (if applicable). 
+• Brief description of all operation e.g., winning, transport, 
+blasting, overburden removal and disposal, Life of the mine 
+furnishing 
+the 
+assumptions 
+made 
+and 
+the 
+detailed 
+computations. 
+• Location of Mine Opening: In case of opencast mines, 
+location of Access trench and reason for selection of site 
+thereof the mining system (geometry and bench parameters and 
+its sequence of development, along with a drawing) and quarry 
+parameters (surface area, floor area). thickness range of each 
+seam and parting, minimum and maximum depth. Quarry stage 
+plans including OB dumps for 1st year, 5th year, year of 
+achieving rated capacity of the mine, Final year (i.e. at the end 
+of mine life) and post closure subsequently, also indicating the 
+volume of excavation for coal and OB, area of excavation 
+volume of internal and external dump and the area, in hectare, 
+for internal and external dumps and height. Seam wise calendar 
+programme of excavation, timeframe for commencement of 
+Backfilling and justification thereof. 
+• In case of underground mining, number and location, length 
+and depth of shafts, inclines, and other mode of entries to be 
+shown in the plan, e.g., Shaft 1, Shaft -2 etc.), HFL of the area, 
+gassiness of the seams, Technology tie-ups if any 
+
+--- PAGE 30 ---
+ 
+P a g e 28 | 46 
+ 
+ 
+ 
+• Seams to be worked, method of working, optimization of coal 
+roof and floor and support system for strata control including, 
+Geo-technical investigations, rock mechanics study carried out 
+already, if any, Scheme of mine development in tandem with 
+production, the extent of working for 1st year,  5thyear, year of 
+achieving rated capacity of the mine, Final year(i.e. at the end of 
+mine life) and post closure, (all stages may be marked in distinct 
+colour in the working plan of each seam),transport and winding 
+system in underground for coal and rock (if required) and 
+personnel; Sources of stowing material(if applicable). 
+• Adequacy of ventilation system taking into account the 
+development works with supporting calculations, specifications 
+of Main Mechanical Ventilator, blasting requirements and 
+requirement of explosives, the requirement in mass production 
+technology (CMs/LWs), pumping requirements, and standby 
+arrangements. (In Maximum 3000 Words) 
+ 
+3.1.3 Coal production 
+capacity proposed 
+"MTPA" 
+ 
+3.1.4 The calendar year from 
+which the production 
+will start 
+ 
+3.1.5 Year of Achieving rated 
+production 
+ 
+ 
+3.1.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tentative Coal Production Plan "Mt" 
+Note: Calendar Plan / Production Plan for the entire life of the mine. 
+Year 
+Coal Production Schedule 
+OB “MM3, 
+SR 
+Cum/t 
+Year of Operation 
+Calendar Year 
+UG 
+OC 
+Total 
+ 
+Before Year 1 
+ 
+ 
+ 
+ 
+ 
+Y-1 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-2 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-3 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-4 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-5 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-Total (From First Year) 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- PAGE 31 ---
+ 
+P a g e 29 | 46 
+ 
+3.1.7 Rated Capacity “MTPA” 
+ 
+ 
+- 
+By OC 
+ 
+- 
+By UG 
+ 
+- 
+Overall 
+ 
+3.1.8 Life of the mine: “Years” 
+ 
+ 
+- 
+By OC 
+e.g., 30 years (From 1st year to 30th year)  
+- 
+By UG 
+e.g.,20 years (From 31st year to 50th year) 
+- 
+Overall 
+e.g.,50 Years 
+3.1.9 Whether 
+the 
+proposed 
+external OB dump site is 
+coal/ lignite bearing: If so, 
+whether coal/lignite below 
+the waste disposal area is 
+extractable, If so, by OC or 
+UG method 
+ 
+3.1.11 
+Type of Equipment/HEMM 
+proposed 
+ 
+ 
+Chapter 5: Infrastructure Facilities 
+ 
+Parameters 
+Details 
+5.1 
+Mine infrastructure required e.g., Equipment 
+maintenance planning, Office buildings, 
+Workshop, Power supply arrangement, Water 
+supply etc. 
+ 
+(Tabular Form) 
+(Location to be shown in Conceptual 
+Plan/Plates) 
+ 
+Sl. 
+No. 
+Facilities/ 
+infrastructure to be 
+retained 
+Area, Ha 
+1. 
+ 
+ 
+2. 
+ 
+ 
+3. 
+ 
+ 
+ 
+Total 
+ 
+ 
+Sl. 
+No. 
+Facilities/ infrastructure to 
+be Dismantled 
+Are
+a, 
+Ha 
+1. 
+ 
+ 
+2. 
+ 
+ 
+3. 
+ 
+ 
+
+--- PAGE 32 ---
+ 
+P a g e 30 | 46 
+ 
+ 
+Total 
+ 
+5.2. 
+Power supply and illumination. 
+(Max 500 Words) 
+(Location to be shown in Plates) 
+5.3 
+Drainage and Pumping: Assessment of 
+Volume of Water for Pumping, Pumping 
+Capacity and Pump Selection 
+(Max 500 Words) 
+(Location to be shown in Plates) 
+5.4 
+Coal Handling Arrangement: Brief detail of 
+the CHP/ Mode of Dispatch, Coal quality and 
+Coal staking and handling arrangement  
+(Max 500 Words) 
+(Location to be shown in Plates) 
+ 
+5.5 
+Coal washing and the proposed handling/ 
+disposal of rejects. 
+(Max 500 Words) 
+(Location to be shown in Plates) 
+Annual Raw coal Feed plan and product 
+with reduction in ash% 
+from feed to product must be furnished in a 
+tabular form 
+ 
+Chapter 6: Land Requirement 
+ 
+ 
+Parameters 
+Details 
+6.1 
+LAND REQUIREMENT 
+6.1.1 
+Total Land requirement for 
+the mine in "Ha" 
+Break up of pre-mining land type (indicative)and source of 
+data. 
+Land Type 
+Area 
+Tenancy 
+ 
+ 
+Govt. Non-Forest 
+ 
+ 
+Forest  
+ 
+ 
+Free Hold 
+ 
+Total 
+ 
+ 
+6.1.2 
+During mining Land use details: 
+
+--- PAGE 33 ---
+ 
+P a g e 31 | 46 
+ 
+ 
+Type 
+Land 
+use 
+(Propose
+d) 
+Lan
+d 
+Use 
+(End 
+of 
+Life) 
+Land Use (Post Closure) 
+Agricultu
+ral land 
+Plantati
+on 
+Wate
+r 
+Body 
+Public/ 
+Compa
+ny Use 
+Forest 
+Land 
+(Returne
+d) 
+Undisturb
+ed 
+Tot
+al 
+Excavation 
+Area 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Backfilled 
+Area 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Excavated 
+Void 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Without 
+plantation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Top Soil 
+Dump 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+External 
+Dump 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Safety Zone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Haul Road 
+between 
+quarries 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Road 
+diversion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diversion/ 
+below 
+River/Nala/ 
+canal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Settling 
+pond 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Road and 
+Infrastructu
+re area 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fly 
+ash 
+dumping, if 
+any 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rationalisat
+ion area 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Garland 
+drains 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Embankme
+nt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 34 ---
+ 
+P a g e 32 | 46 
+ 
+Green Belt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Water 
+Reservoir 
+near pit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UG entry 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Undisturbed
+/ Mining 
+right for 
+UG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resettlemen
+t 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pit head 
+washery/ 
+power plant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Water 
+harvesting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agricultural 
+land 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.1.3 
+No. of villages/Houses to be shifted 
+ 
+6.1.4 
+Population to be affected by the project 
+ 
+6.1.5 
+Proposed Rehabilitation programme 
+ 
+6.2 
+DETAILS OF LEASE 
+6.2.1 
+Status of Lease 
+ 
+6.2.2 
+Existing Lease Area "Ha" 
+ 
+6.2.3 
+Period for which Mining Lease has been granted/is 
+to be renewed/ is to be applied for. 
+ 
+6.2.4 
+Date of expiry of earlier 
+Mining Lease, if any 
+ 
+6.2.5 
+Whether the lease boundary/ required boundary is 
+same as mentioned in the allotment order  
+ 
+6.2.6 
+Lease Area (applied/ required) as per the Mining 
+Plan under consideration (Ha) 
+ 
+6.2.7 
+Whether the applied lease area falls within the 
+allotted block 
+ 
+6.2.8 
+Area (Ha) of lease which falls outside the delineated 
+Block Boundary/Existing Mining Lease 
+ 
+6.2.9 
+Details of outside area: 
+ 
+
+--- PAGE 35 ---
+ 
+P a g e 33 | 46 
+ 
+ 
+Whether forms part of any other coal block 
+ 
+ 
+Whether it contains any coal/lignite reserve 
+ 
+ 
+Purpose for which it is required, e.g., roads/ OB 
+dumps/ service buildings/ colony/ safety zone/ 
+others (specify) 
+ 
+6.2.10 Whether some part(s) of the allotted block has 
+not been applied for mining lease. 
+ 
+ 
+Total area in Ha of such part(s). 
+ 
+ 
+Total resources in such part(s). (Mt) 
+ 
+ 
+Brief reasoning for leaving such part(s) 
+ 
+ 
+ 
+Chapter 7: Environmental Management 
+ 
+ 
+Parameters 
+Details 
+7. 
+ENVIRONMENTAL MANAGEMENT 
+7.1 
+The 
+project 
+proponent 
+shall 
+submit 
+an 
+undertaking that the mine shall be operated as per 
+the Environment Clearance (EC) and Forestry 
+Clearance (FC) for the project. 
+ 
+ 
+Chapter 8: PROGRESSIVE and FINAL MINE CLOSURE PLAN 
+Parameters
+Details 
+8.1 
+Land Degradation and restoration Schedule 
+8.1.1 Tentative Land Degradation and Technical Reclamation (Commutative Area "Ha") 
+
+--- PAGE 36 ---
+ 
+P a g e 34 | 46 
+ 
+Stage/ Year 
+Land Degraded 
+Technically Reclaimed Area 
+Excav. 
+Dump 
+(Extn + 
+Top Soil) 
+Infra/ 
+others 
+Total Backfil
+l/Stowi
+ng 
+Dump 
+(Extn+ 
++ Top 
+Soil) 
+Others 
+Total 
+Up to Base year *  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post Mining Closure 
+Y-33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post Closure Monitoring  
+Y-35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*-Considering Base year i.e. 2024-25 and life of 35 years in this case  
+Note: For the purpose of preparation of Stage plan and action plan for restoration and 
+assessment of life of mine and escrow account, the year in which any activity over the 
+proposed land is envisaged, should be considered as 1st year i.e. First year of development.  
+Stages of reclamation and restoration of land should be given for 1st, 3rd, 5th, 10th and 
+subsequently every five year for the entire life of the project and for 3 years post-mining 
+closure.  
+8.1.2 
+Tentative Biological Reclamation (Cumulative in "Ha") 
+Year/Stage 
+Biologically Reclaimed Area 
+Forest 
+land 
+(Return) 
+Un 
+Disturbed/ 
+To be left 
+for 
+Public/com 
+Use 
+Total 
+Agricul-
+ture 
+Plantation Water 
+Body 
+Public/ 
+Company 
+Use 
+Total 
+Up to Base 
+year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-15* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 37 ---
+ 
+P a g e 35 | 46 
+ 
+Y-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post Mining Closure 
+Y-33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post Closure Monitoring 
+Y-35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of reclamation and restoration of land should be given for 1st, 3rd, 5th , 10th and 
+subsequently every five year for the entire life of the project and for 3 years post mining closure. 
+ 
+8.2 Post Closure Water Quality 
+management: 
+(Max 200 Words) 
+(Existing water bodies available in the lease hold area; Measures 
+to be taken for protection of the same including control of 
+erosion, sedimentation, siltation, water treatment, diversion of 
+water course, if any; Measures for protection of contamination 
+of ground water from leaching etc;) 
+8.3 Post Closure Air Quality 
+management 
+(Max 200 Words) 
+8.4 
+Waste Management (Figures in MM3) (Tentative) 
+ 
+* - Considering the life of 35 years in this case  
+Stages at 1st,  5th, 10th  and subsequently every five years for the entire life of the project and 
+3 years post mining closure  
+ 
+Year/Stage  
+ 
+OB Removal 
+(Cumulative) 
+External 
+Dump 
+(Cumulative) 
+Internal 
+Backfilling 
+(Cumulative) 
+Embankment 
+(Cumulative) 
+Top 
+Soil 
+OB Total Top 
+Soil 
+OB 
+Top 
+Soil 
+OB 
+Top Soil 
+OB 
+Up to Base year  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Y-30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post Mining Closure  
+Y-33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post Closure Monitoring 
+Y-35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.5 
+Top Soil Management — (Including Action plan for Top Soil management) (Tentative) 
+
+--- PAGE 38 ---
+ 
+P a g e 36 | 46 
+ 
+(All Figures are Cumulative and in MM3) 
+Year/Stage  
+ 
+Top Soil 
+Removal 
+Plan 
+Top Soil Used 
+Spreading 
+Over 
+Embankmen
+t 
+Spreading 
+over 
+Backfill 
+area 
+Spreading 
+over 
+External OB 
+Dump area 
+Used in 
+Green 
+Belt area 
+Total 
+Utilised 
+Up to Base year  
+ 
+ 
+ 
+ 
+ 
+Y-1 
+ 
+ 
+ 
+ 
+ 
+Y-5 
+ 
+ 
+ 
+ 
+ 
+Y-10 
+ 
+ 
+ 
+ 
+ 
+Y-15 
+ 
+ 
+ 
+ 
+ 
+Y-20 
+ 
+ 
+ 
+ 
+ 
+Y-25 
+ 
+ 
+ 
+ 
+ 
+Y-30 
+ 
+ 
+ 
+ 
+ 
+Post Mining Closure  
+Y-33 
+ 
+ 
+ 
+ 
+ 
+Post Closure Monitoring 
+Y-35 
+ 
+ 
+ 
+ 
+ 
+ 
+Considering the life of 35 years in this case 
+Stages at 1st,  5th, 10th and subsequently every five years for the entire life of the project and 
+for 3 years post mining closure 
+8.6 
+Management of Coal Rejects. 
+ 
+8.7 
+Restoration of Land used for Infrastructure 
+ 
+8.8 
+Disposal of Mining Machinery 
+ 
+8.9 
+Safety and Security 
+ 
+8.10 
+Mine Closure Cost and Financial Assurance 
+8.10.1 Mine Closure Cost: 
+ 
+Cost of Activities to be taken up for closure of the mines  
+Head 
+Particulars 
+Unit 
+Proposed Mine Closure Activities Cost 
+Quantity 
+ Rs ₹/ Unit 
+"Rs. Cr" 
+A. 
+Progressive 
+Mine 
+Closure  
+Barbed wire fencing 
+around the mine (Pit and 
+Dump) 
+m 
+ 
+ 
+ 
+Waste Management 
+MCum 
+ 
+ 
+ 
+Filing of Void - 
+Rehandling of Dump (Not 
+carried out as part of 
+regular mining operation) 
+MM3 
+ 
+ 
+ 
+Top soil Management 
+MM3 
+ 
+ 
+ 
+
+--- PAGE 39 ---
+ 
+P a g e 37 | 46 
+ 
+Technical and Biological 
+Reclamation of mined out 
+land and OB Dump. 
+Ha 
+ 
+ 
+ 
+Plantation over Virgin 
+Area including green belt 
+Ha 
+ 
+ 
+ 
+Manpower Cost and 
+supervision 
+ 
+ 
+ 
+ 
+Toe wall around the dump 
+m 
+ 
+ 
+ 
+Garland Drain 
+m 
+ 
+ 
+ 
+Stowing 
+ 
+ 
+ 
+ 
+Subsidence Monitoring 
+and Management 
+ 
+ 
+ 
+ 
+Isolation Stoppings 
+ 
+ 
+ 
+ 
+Any other activities 
+ 
+ 
+ 
+ 
+Sub Total (A) 
+ 
+ 
+ 
+ 
+B. Post 
+Closure 
+Activities 
+ 
+ 
+ 
+ 
+ 
+Dismantling 
+of 
+Infrastructure 
+and 
+Disposal/ 
+rehabilitation 
+of Mining 
+machinery 
+Dismantling of Workshop 
+LS 
+ 
+ 
+ 
+Dismantling of CHP 
+LS 
+ 
+ 
+ 
+Dismantling of mine 
+structures 
+ 
+ 
+ 
+ 
+Dismantling of Civil 
+structures 
+LS 
+ 
+ 
+ 
+Rehabilitation of 
+dismantled facilities 
+LS 
+ 
+ 
+ 
+Dismantling of pumps and 
+Pipes/ other facilities 
+LS 
+ 
+ 
+ 
+Dismantling of stowing 
+bunkers, provisioning of 
+pumps for bore well 
+pumping arrangement 
+ 
+ 
+ 
+ 
+Dismantling of UG 
+equipment 
+LS 
+ 
+ 
+ 
+Dismantling of Power 
+lines 
+LS 
+ 
+ 
+ 
+Sub total 
+ 
+ 
+ 
+ 
+Safety and 
+Security 
+Barbed wire fencing 
+around mine (Pit and 
+dumps) 
+m 
+m 
+m 
+ 
+ 
+ 
+
+--- PAGE 40 ---
+ 
+P a g e 38 | 46 
+ 
+Concrete wall with 
+masonry / concrete pillars 
+around the pit 
+m 
+ 
+ 
+ 
+Securing entries 
+(shaft/inclines)   
+Nos. 
+ 
+ 
+ 
+Securing of Inclines 
+Nos. 
+ 
+ 
+ 
+Appropriate fencing 
+around the water body 
+m 
+ 
+ 
+ 
+installation of bore well 
+pump 
+ 
+ 
+ 
+ 
+Stabilisation| viz., 
+benching, pitching et) of 
+side walls of the water 
+body 
+LS 
+ 
+ 
+ 
+Toe Wall around the dump 
+m 
+ 
+ 
+ 
+Garland drain 
+m 
+ 
+ 
+ 
+ 
+Drainage Channel from 
+main OB dump 
+m 
+ 
+ 
+ 
+Sub total 
+ 
+ 
+ 
+ 
+Technical 
+and 
+Biological 
+Reclamation 
+of Mined out 
+of land and 
+OB dump 
+Filing of Void 
+Mm3 
+ 
+ 
+ 
+OB Rehandling for 
+backfilling 
+Mm3 
+ 
+ 
+ 
+Terracing, blanketing with 
+soil and vegetation of 
+Extremal OB Dump 
+Ha 
+ 
+ 
+ 
+peripheral road, gates, 
+view point, cemented 
+steps on bank 
+ 
+ 
+ 
+ 
+Expenditure on 
+development of 
+Agricultural land 
+ 
+ 
+ 
+ 
+Landscaping and 
+Plantation 
+ 
+ 
+ 
+ 
+Sub total 
+ 
+ 
+ 
+ 
+Post Closure 
+Monitoring  
+and 
+supervision 
+Power Cost 
+ 
+ 
+ 
+ 
+Post Mining Water quality 
+management 
+ 
+ 
+ 
+ 
+Post Mining Air quality 
+management 
+ 
+ 
+ 
+ 
+Subsidence monitoring for 
+5 years 
+ 
+ 
+ 
+ 
+
+--- PAGE 41 ---
+ 
+P a g e 39 | 46 
+ 
+Manpower Cost and 
+supervision 
+ 
+ 
+ 
+ 
+Sub total 
+ 
+ 
+ 
+ 
+Sustainability 
+ 
+Skill Development and 
+Trainings 
+(Alternative 
+Source of livelihood) 
+ 
+ 
+ 
+ 
+Afforestation 
+ 
+ 
+ 
+ 
+Agriculture 
+and 
+other 
+Allied Activities 
+ 
+ 
+ 
+ 
+Eco-Tourism 
+Development 
+ 
+ 
+ 
+ 
+Flora 
+and 
+fauna 
+Conservation/Wildlife 
+conservation 
+ 
+ 
+ 
+ 
+Water 
+Resource 
+Management/Conservatio
+n 
+ 
+ 
+ 
+ 
+Clean Energy Projects 
+ 
+ 
+ 
+ 
+Art and Culture  
+ 
+ 
+ 
+ 
+Women Empowerment 
+ 
+ 
+ 
+ 
+Welfare of aged and 
+disabled people 
+ 
+ 
+ 
+ 
+Sustainable Living 
+ 
+ 
+ 
+ 
+Sanitation 
+ 
+ 
+ 
+ 
+ 
+Sub Total (B) 
+ 
+ 
+ 
+ 
+Grand Total 
+(A+B) 
+ 
+ 
+ 
+ 
+ 
+8.10.2 Financial Assurance: Amount to be deposited in Escrow account as a security against the 
+mine activities to be carried out for the closure of the mine 
+
+--- PAGE 42 ---
+ 
+P a g e 40 | 46 
+ 
+ 
+Latest 
+WPI 
+Available 
+Sep-24  
+ 
+156.40 
+WPI as on base 
+date 
+May-24 
+ 
+153.50 
+Escalation rate of Financial assurance  1.018 
+ 
+ 
+UG 
+OC 
+The base Rate of Financial 
+assurance 
+amount  
+" ₹Crs./Ha" 
+0.02 
+0.14 
+Financial assurance amount 
+"₹. Crs/Ha" 
+0.0203 0.1426 
+Project Area 
+ 
+ 
+Amount to be deposited into 
+Escrow Account “(₹) in Crs” 
+ 
+ 
+The 
+amount 
+already 
+deposited 
+into 
+Escrow 
+Account “(₹) in Crs” 
+ 
+ 
+Net Amount to be deposited 
+into Escrow Account “(₹) in 
+Crs” 
+ 
+ 
+ 
+Rate of compounding of 
+Annual Financial assurance 
+amount  
+ 
+ 
+Balance production Life of 
+the project "in Yrs" 
+ 
+ 
+Annual Financial assurance 
+amount  
+ 
+ 
+ 
+Amount to be deposited 
+into Escrow Account after 
+compounding @ of 5%  
+(₹ in Crs) 
+ 
+*  Base date considered is 31.05.2024 and life of 
+the mine considered is … years from 20..-.. 
+ 
+ 
+Amount to be deposited into 
+Escrow Account annually (“₹ in 
+Crs”) 
+Year 
+OC 
+Yea
+r 
+UG 
+Total 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 43 ---
+ 
+P a g e 41 | 46 
+ 
+Appendix -III 
+ 
+Indicative (not exhaustive) list of activities under mine closure  
+  
+S. 
+No
+. 
+  
+Heads 
+  
+Activities 
+Progressive Mine 
+Closure Activities  
+Final Mine 
+Closure 
+activities  
+Post 
+closure 
+monitoring 
+  
+  
+Y1 
+Y
+2 
+Y
+3 
+Y
+5 
+ Y
+1 
+ Y
+2 
+Y3 
+ Y1 
+ Y2 
+1 
+Progressi
+ve Mine 
+Closure 
+Activities  
+Barbed wire fencing 
+around the Mine (Pit 
+and Dump) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+3 
+4 
+Waste Management 
+  
+  
+  
+  
+5 
+Top soil management 
+Technical and 
+biological 
+reclamation of mined 
+out 
+land and OB dump 
+  
+  
+  
+  
+6 
+  
+  
+  
+  
+7 
+Plantation over 
+virgin area including 
+Green Belt 
+  
+  
+  
+  
+8 
+Manpower cost and 
+supervision 
+  
+  
+  
+  
+9 
+Toe wall around the 
+dump 
+  
+  
+  
+  
+10 
+Garland drain  
+  
+  
+  
+  
+11 
+Garland drain  
+  
+  
+  
+  
+12 
+Stowing  
+  
+  
+  
+  
+13 
+Subsidence 
+monitoring and 
+management 
+  
+  
+  
+  
+14 
+Isolation stopping 
+  
+  
+  
+  
+15 
+Any other if any 
+ 
+ 
+ 
+ 
+16 
+  
+  
+Sub Total 
+  
+  
+  
+  
+  
+Final Closure Activities 
+1 
+Dismantli
+ng of 
+Infrastruc
+ture, 
+disposal 
+of mining 
+machiner
+y 
+Dismantling of 
+workshop 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+2 
+Dismantling of 
+pumps and 
+pipes/other facilities 
+  
+  
+3 
+Dismantling of UG 
+equipment 
+  
+  
+   
+4 
+Dismantling of 
+power line 
+  
+5 
+Dismantling of mine 
+structures 
+ 
+ 
+ 
+
+--- PAGE 44 ---
+ 
+P a g e 42 | 46 
+ 
+  
+  
+Safety 
+and 
+security 
+Sub - Total 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  1 
+Barbed wire fencing 
+around mine (Pit and 
+dumps) 
+ 
+ 
+ 
+2 
+Concrete wall with 
+masonry / concrete 
+pillars around the pit 
+ 
+ 
+ 
+3 
+Securing 
+entries(shaft/inclines) 
+ 
+ 
+ 
+4 
+Appropriate fencing 
+around 
+the water body and 
+installation of bore 
+well pump 
+ 
+ 
+ 
+5 
+Stabilisation| viz., 
+benching, pitching 
+et) of side walls of 
+the waterbody 
+ 
+ 
+ 
+6 
+Toe Wall around the 
+dump 
+ 
+ 
+ 
+7 
+Garland drain 
+ 
+ 
+ 
+8 
+Drainage Channel 
+from main OB dump 
+  
+  
+  
+  
+Sub - Total 
+  
+  
+1 
+Technical 
+and 
+Biological 
+reclamati
+on of 
+mined out 
+land and 
+OB dump 
+Filing of Void 
+  
+  
+2 
+OB Rehandling for 
+backfilling 
+  
+  
+  
+  
+ 
+Terracing, blanketing 
+with soil and 
+vegetation of 
+Extremal OB Dump 
+ 
+ 
+ 
+3 
+Peripheral road, 
+gates, view points, 
+Cemented steps on 
+bank 
+  
+  
+4 
+Expenditure on the 
+development of 
+agricultural land 
+  
+  
+  
+  
+5 
+Landscaping and 
+Plantation 
+  
+  
+ 
+ 
+Stowing  
+ 
+ 
+ 
+  
+  
+Sub - Total 
+  
+  
+  
+1 
+Post 
+closure 
+monitorin
+g  and 
+power cost 
+ 
+  
+  
+  
+ 
+ 
+2 
+post mining water 
+quality management 
+  
+ 
+  
+3 
+post mining air and 
+soil quality 
+management 
+ 
+  
+
+--- PAGE 45 ---
+ 
+P a g e 43 | 46 
+ 
+4 
+supervisio
+n 
+Subsidence 
+monitoring for 5 
+years 
+ 
+  
+5 
+ 
+man power cost and 
+supervision 
+ 
+  
+  
+  
+Sub - Total 
+ 
+  
+  
+ 
+  
+1 
+Sustainab
+ility 
+Skill Development and 
+Trainings (Alternative 
+Source of livelihood) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+Fruit bearing, 
+medicinal & local 
+species plantation / 
+Afforestation 
+  
+  
+  
+  
+  
+  
+  
+3 
+Agriculture and other 
+Allied Activities 
+  
+  
+  
+  
+  
+  
+  
+  
+4 
+Eco-Tourism 
+Development 
+5 
+Flora and fauna 
+Conservation/Wildlife 
+conservation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+6 
+Water Resource 
+Management/Conserva
+tion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+Clean Energy Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+Art and Culture  
+  
+  
+  
+  
+  
+  
+ 
+  
+9 
+ 
+Women Empowerment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+Welfare of aged and 
+disabled people 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+Sustainable Living 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+Sanitation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Sub - Total 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+TOTAL COST 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 46 ---
+ 
+P a g e 44 | 46 
+ 
+Appendix –IV 
+ 
+Illustration: Yearly and 5 Yearly Reimbursement of escrow amount 
+Total Project Area (Ha) 
+535.72 
+Mine Closure Cost per Ha 
+1400000 
+Total Cost (Cr) 
+535.72*1400000=75 
+Production Life of Mine 
+30 
+Cost Per Annum (Cr) 
+75/30=2.5 
+Interest assumed per annum 
+7 % 
+ 
+Amount in Crores 
+ Year 
+Deposition 
+Yearly Reimbursement 
+Balance with 
+Interest at the 
+end of year 
+5 yearly release (50 % of 
+Balance after yearly 
+release) 
+Year 1 
+2.50 
+No yearly Reimbursement 
+2.50 
+  
+Year 2 
+2.63 
+1.25 
+4.05 
+  
+Year 3 
+2.76 
+1.31 
+5.78 
+  
+Year 4 
+2.89 
+1.38 
+7.70 
+  
+Year 5 
+3.04 
+1.45 
+9.83 
+  
+Year 6 
+3.19 
+No yearly Reimbursement 
+8.45 
+(50 percent of 9.83 Cr) = 
+4.91 
+Year 7 
+3.35 
+1.60 
+10.80 
+ 
+Year 8 
+3.52 
+1.68 
+13.39 
+ 
+Year 9 
+3.69 
+1.76 
+16.27 
+ 
+Year 10 
+3.88 
+1.85 
+19.44 
+ 
+Year 11 
+4.07 
+No yearly Reimbursement 
+14.47 
+(50 percent of 19.44 Cr) = 
+9.72 
+Year 12 
+4.28 
+2.04 
+17.72 
+ 
+Year 13 
+4.49 
+2.14 
+21.32 
+ 
+Year 14 
+4.71 
+2.24 
+25.28 
+ 
+Year 15 
+4.95 
+2.36 
+29.64 
+ 
+Year 16 
+5.20 
+No yearly Reimbursement 
+21.05 
+(50 percent of 29.64 Cr) = 
+14.82 
+Year 17 
+5.46 
+2.60 
+25.39 
+ 
+Year 18 
+5.73 
+2.73 
+30.16 
+ 
+Year 19 
+6.02 
+2.87 
+35.43 
+ 
+Year 20 
+6.32 
+3.01 
+41.22 
+ 
+Year 21 
+6.63 
+No yearly Reimbursement 
+28.68 
+(50 percent of 41.22 Cr) = 
+20.61 
+Year 22 
+6.96 
+3.32 
+34.34 
+ 
+Year 23 
+7.31 
+3.48 
+40.58 
+ 
+
+--- PAGE 47 ---
+ 
+P a g e 45 | 46 
+ 
+Year 24 
+7.68 
+3.66 
+47.44 
+ 
+Year 25 
+8.06 
+3.84 
+54.98 
+ 
+Year 26 
+8.47 
+No yearly Reimbursement 
+37.88 
+(50 percent of 54.98 Cr) = 
+27.49 
+Year 27 
+8.89 
+4.23 
+45.19 
+ 
+Year 28 
+9.33 
+4.44 
+53.24 
+ 
+Year 29 
+9.80 
+4.67 
+62.10 
+ 
+Year 30 
+10.29 
+4.90 
+71.84 
+ 
+Total  
+166.10 
+ 
+ 
+ 
+ 
+Note:- Calculation is just for illustration purposes.  
+The calculation of interest is tentative. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 48 ---
+ 
+P a g e 46 | 46 
+ 
+Appendix –V 
+Indicative list for community development and livelihood related activities 
+Sl. 
+No. 
+Major Head 
+Activity (Not covered under any other statutory obligations) 
+1. 
+Skill Development and 
+Trainings (Alternative 
+Source of livelihood) 
+Offer skills, resources and knowledge development and training in alternative 
+livelihoods like agriculture, handicrafts, poultry farming, tailoring, 
+entrepreneurship or IT skills. Support project affected person /families to 
+develop skills and set up business.  
+2. 
+Fruit bearing, medicinal & 
+local species plantation / 
+Afforestation 
+Promote horticulture, apiculture, plantation through Miyawaki technique, 
+permaculture, Social Forestry, Livelihood-oriented plantation, community-
+based tree plantation in and around project area.   
+3. 
+Agriculture and other 
+Allied Activities 
+Promote sustainable agriculture, organic farming, and agroforestry by 
+improving irrigation and providing high-quality seeds in and around project 
+area. Develop & use new scientific methods of agriculture and farming. 
+Support Animal Husbandry. 
+4. 
+Eco-Tourism 
+Development 
+Convert mined-out areas into eco-tourism hubs with activities like boating, 
+trekking, or cultural tourism in and around project area. 
+5. 
+Flora and fauna 
+Conservation/Wildlife 
+conservation 
+Reforestation, Eco-parks and Biodiversity Projects [in and around project 
+area]: Reclaim mined land with native species and develop biodiversity parks. 
+Promote pisciculture spaces. 
+6. 
+Water Resource 
+Management/Conservation 
+Supply clean water and irrigation facilities in and around project area. 
+Rehabilitate and rejuvenate water bodies affected by mining activities.  
+7. 
+Clean Energy Projects 
+Implement solar or biogas projects to provide affordable energy to local 
+communities in and around project area. 
+8. 
+Art and Culture  
+Promote indigenous and local know-hows including promoting traditional 
+practices related to arts, culture and heritage in and around project area.  
+9. 
+Women Empowerment 
+Initiatives to support women empowerment in and around project area. 
+10. 
+Welfare of aged and 
+disabled people 
+Special program for welfare of aged and disabled people in and around project 
+area.  
+11. 
+Sustainable Living 
+In and around project area: Outsourcing of Operation and Maintenance of 
+created assets/ public spaces under mine closure to local communities, self-
+help groups and project affected person/families. Teach communities about 
+sustainable practices, waste management, and renewable energy.  
+12. 
+Sanitation 
+In and around project area: Collection, transportation & disposal of waste, 
+cleaning of public places, provision of proper drainage & Sewage Treatment 
+Plant, provision for disposal of fecal sludge, provision of toilet and other 
+related activities.  
+13. 
+Any other community development project related to mine closure as approved by Mine Closure Advisory 
+Committee.  
+ 
+Note: Claim for expenditure towards any one project shall not exceed one third of the five 
+yearly total escrow amount earmarked exclusively to be spent on mine closure activities under 
+the head.  
+ 

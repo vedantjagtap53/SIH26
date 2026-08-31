@@ -1,0 +1,137 @@
+[
+    {
+        "id": "mine_1",
+        "mine_name": "KALYANIKHANI OC",
+        "company": "SCCL",
+        "score_2526": 72.0,
+        "score_2627": 72.7,
+        "lat": 19.01,
+        "lng": 79.4651
+    },
+    {
+        "id": "mine_2",
+        "mine_name": "PACHHWARA NORTH COAL MINE",
+        "company": "WBPDCL",
+        "score_2526": 78.4,
+        "score_2627": 79.2,
+        "lat": 24.47474,
+        "lng": 87.476437
+    },
+    {
+        "id": "mine_3",
+        "mine_name": "NEW KENDA OCP",
+        "company": "ECL",
+        "score_2526": 79.4,
+        "score_2627": 77.0,
+        "lat": 23.6672,
+        "lng": 87.1791
+    },
+    {
+        "id": "mine_4",
+        "mine_name": "BHOWRA NORTH COLLIERY",
+        "company": "BCCL",
+        "score_2526": 57.7,
+        "score_2627": 61.2,
+        "lat": 23.681905,
+        "lng": 86.400533
+    },
+    {
+        "id": "mine_5",
+        "mine_name": "SHYAMPUR B COLLIERY",
+        "company": "ECL",
+        "score_2526": 79.7,
+        "score_2627": 78.4,
+        "lat": 23.7625,
+        "lng": 86.7311
+    },
+    {
+        "id": "mine_6",
+        "mine_name": "Ramagundam OC-II Extn.",
+        "company": "SCCL",
+        "score_2526": 28.1,
+        "score_2627": 40.2,
+        "lat": 18.8,
+        "lng": 79.45
+    },
+    {
+        "id": "mine_7",
+        "mine_name": "TAWA UG",
+        "company": "WCL",
+        "score_2526": 84.6,
+        "score_2627": 83.8,
+        "lat": 22.116,
+        "lng": 78.166
+    },
+    {
+        "id": "mine_8",
+        "mine_name": "CHORA 7&9 PITS COLLIERY",
+        "company": "ECL",
+        "score_2526": 71.1,
+        "score_2627": 70.4,
+        "lat": 23.67,
+        "lng": 87.2
+    },
+    {
+        "id": "mine_9",
+        "mine_name": "NIMCHA (R) COLLIERY",
+        "company": "ECL",
+        "score_2526": 80.1,
+        "score_2627": 78.6,
+        "lat": 23.650069,
+        "lng": 87.071513
+    },
+    {
+        "id": "mine_10",
+        "mine_name": "PAREJ EAST OCP",
+        "company": "CCL",
+        "score_2526": 75.8,
+        "score_2627": 74.7,
+        "lat": 23.798166,
+        "lng": 85.586162
+    },
+    {
+        "id": "mine_11",
+        "mine_name": "Magadh OCP",
+        "company": "CCL",
+        "score_2526": 27.2,
+        "score_2627": 38.3,
+        "lat": 23.889479,
+        "lng": 85.00171
+    },
+    {
+        "id": "mine_12",
+        "mine_name": "PANDAVESWAR COLLIERY",
+        "company": "ECL",
+        "score_2526": 70.8,
+        "score_2627": 70.3,
+        "lat": 23.696667,
+        "lng": 87.273333
+    },
+    {
+        "id": "mine_13",
+        "mine_name": "DALURBAND COLLIERY",
+        "company": "ECL",
+        "score_2526": 81.4,
+        "score_2627": 79.3,
+        "lat": 23.697576,
+        "lng": 87.253978
+    },
+    {
+        "id": "mine_14",
+        "mine_name": "UTKAL C COAL MINE",
+        "company": "JSPL",
+        "score_2526": 67.7,
+        "score_2627": 69.4,
+        "lat": 21.05,
+        "lng": 84.983
+    },
+    {
+        "id": "mine_15",
+        "mine_name": "REHAR UG MINE",
+        "company": "SECL",
+        "score_2526": 73.7,
+        "score_2627": 73.7,
+        "lat": 23.3485,
+        "lng": 83.0034
+    }
+]

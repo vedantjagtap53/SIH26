@@ -1,0 +1,805 @@
+
+--- PAGE 1 ---
+ 
+ 
+ 
+ 
+ANNEXURE-I 
+ 
+PROCESS FLOW TO ADD MEMBER MASTER DATA 
+ 
+UDA Level 
+↓ 
+Click "Add New Member" 
+↓ 
+Select Member Type 
+     → New Member 
+     → Existing Member 
+↓ 
+Fill Details (Personal + Employment + Bank) 
+↓ 
+Upload Documents 
+↓ 
+Submit Request 
+↓ 
+Forward to UAO 
+↓ 
+------------------------- 
+UAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+     → Return to UDA (if discrepancy) 
+     → Forward to AAO 
+ 
+↓ 
+------------------------- 
+AAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+     → Approve/Forward to AGM/IDS 
+     → Return to UAO (if discrepancy) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 2 ---
+ANNEXURE-II 
+ 
+DETAILED PROCEDURE TO ADD MEMBER MASTER DATA 
+ 
+1. UDA (Unit Dealing Assistant) 
+1.1 General Instruction 
+Under UDA login, a request for creation of Member Master Data can be initiated for: 
+ 
+New Member → New joinee (CMPF Account Number will be generated)  
+ 
+Existing Member → Member already having CMPF Account Number (issued offline)  
+ 
+1.2 Access & Monitoring 
+ 
+Navigate to Add New Member  
+ 
+Tabs available:  
+o 
+Submitted Tab → Requests pending with higher officers  
+o 
+Returned Tab → Requests sent back for correction  
+o 
+Approved Tab → Successfully approved requests  
+ 
+1.3 Initiate Member Creation 
+ 
+Click Add New Member Button  
+ 
+System displays Member Registration Form  
+ 
+1.4 Select Member Type 
+ 
+New Member  
+o 
+Enter complete details  
+o 
+CMPF Account Number will be auto-generated  
+ 
+Existing Member  
+o 
+Enter existing CMPF Account Number  
+o 
+Fill remaining details  
+ 
+1.5 Enter Member Details 
+Fill the following: 
+ 
+Personal Details  
+ 
+Employment Details  
+ 
+Bank Details (PF & Pension)  
+ 
+1.6 Document Upload 
+ 
+Upload all required supporting documents  
+ 
+1.7 Submission 
+ 
+Click Submit  
+ 
+System behavior:  
+o 
+If data is correct → Request forwarded to UAO  
+o 
+If error → Alert displayed for correction  
+ 
+2. UAO (Unit Authorised Officer) 
+2.1 Tabs Available 
+ 
+Received → New requests from UDA  
+ 
+Processed → Forwarded to AAO  
+ 
+Returned → Sent back to UDA  
+ 
+Approved → Final approved cases  
+ 
+2.2 Verification Process 
+ 
+Click Ack ID  
+ 
+Verify:  
+o 
+Employment details  
+o 
+Bank details (PF & Pension)  
+o 
+Uploaded documents  
+
+--- PAGE 3 ---
+ 
+2.3 Decision at UAO 
+ 
+Forward to AAO (select AAO from dropdown)  
+ 
+Return to UDA (if discrepancies found)  
+ 
+3. AAO (Area Authorised Officer) 
+3.1 Tabs Available 
+ 
+Received  
+ 
+Processed  
+ 
+Returned  
+ 
+Approved  
+ 
+3.2 Verification Process 
+ 
+Click Ack ID  
+ 
+Review:  
+o 
+Employment details  
+o 
+Bank details  
+o 
+Supporting documents  
+ 
+3.3 Decision at AAO 
+ 
+Approve → Final approval of member creation  
+ 
+Return to UAO → If discrepancies found 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 4 ---
+ 
+ANNEXURE-III 
+ 
+PROCESS FLOW TO UPDATE MEMBER MASTER DATA 
+ 
+UDA Level 
+↓ 
+Go to "Update Member" 
+↓ 
+Search Member (CMPF / Aadhaar / PAN / Mobile / Name) 
+↓ 
+View Member Details 
+↓ 
+Click Edit 
+↓ 
+Modify Details + Upload Documents (if required) 
+↓ 
+Preview 
+↓ 
+Submit Request 
+↓ 
+Forward to UAO 
+↓ 
+------------------------- 
+UAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+     → Return to UDA (if discrepancy) 
+     → Forward to AAO 
+↓ 
+------------------------- 
+AAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+    → Approve (Final) 
+    → Return to UAO (if discrepancy) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 5 ---
+ 
+ANNEXURE-IV 
+ 
+DETAILED PROCEDURE TO UPDATE MEMBER MASTER DATA 
+ 
+1. UDA (Unit Dealing Assistant) 
+1.1 General Instruction 
+After successful creation of member data, any subsequent changes/updates in the Member Master Data 
+shall be carried out using the Update Member option. 
+ 
+1.2 Access & Tracking 
+ 
+Navigate to Update Member  
+ 
+Tabs available:  
+o 
+Submitted Tab → Requests sent to UAO for approval  
+o 
+Returned Tab → Requests sent back for correction  
+ 
+1.3 Search Member 
+The UDA can search the member using: 
+ 
+CMPF Account Number  
+ 
+Aadhaar Number  
+ 
+PAN  
+ 
+Mobile Number  
+ 
+Name  
+ 
+1.4 View Member Details 
+ 
+After search, member details are displayed  
+ 
+Options available:  
+o 
+View Icon  
+o 
+Edit Icon  
+ 
+1.5 Update Member Details 
+ 
+Click Edit Icon  
+ 
+Modify required fields in the member profile  
+ 
+1.6 Preview & Submission 
+ 
+Click Preview to verify changes  
+ 
+Click Submit  
+ 
+Select UAO officer from dropdown  
+ 
+System displays “Successful” message  
+ 
+2. UAO (Unit Authorised Officer) 
+2.1 Tabs Available 
+ 
+Received → New requests from UDA  
+ 
+Processed → Forwarded to AAO  
+ 
+Returned → Sent back to UDA  
+ 
+2.2 Verification Process 
+ 
+Click Upd Req Ack ID  
+ 
+Verify:  
+o 
+Member personal details  
+o 
+Employment details  
+o 
+Bank details (PF & Pension)  
+o 
+Old vs Updated values  
+o 
+Uploaded documents  
+o 
+Remarks  
+ 
+2.3 Decision at UAO 
+
+--- PAGE 6 ---
+ 
+Forward to AAO (select AAO from dropdown)  
+ 
+Return to UDA (if discrepancies found)  
+ 
+3. AAO (Area Authorised Officer) 
+3.1 Tabs Available 
+ 
+Received  
+ 
+Processed  
+ 
+Returned  
+ 
+3.2 Verification Process 
+ 
+Click Upd Req Ack ID  
+ 
+Review:  
+o 
+Employment details  
+o 
+Bank details (PF & Pension)  
+o 
+Updated member information  
+o 
+Supporting documents  
+ 
+3.3 Decision at AAO 
+ 
+Approve → Final approval of update  
+ 
+Return to UAO → If discrepancies found 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 7 ---
+ 
+ANNEXURE-V 
+ 
+PROCESS FLOW TO ADD FAMILY MEMBER MASTER DATA 
+ 
+UDA Level 
+↓ 
+Go to "Add Family Member" 
+↓ 
+Search Member (CMPF A/c No.) 
+↓ 
+View Member Details 
+↓ 
+Click "Add Family Member" 
+↓ 
+Fill Details + Claim Eligibility + Upload Documents 
+↓ 
+Submit Request 
+↓ 
+Forward to UAO 
+↓ 
+------------------------- 
+UAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+      → Return to UDA (if discrepancy) 
+      → Forward to AAO 
+↓ 
+------------------------- 
+AAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+                         → Approve (Final) 
+                                               → Return to UAO (if discrepancy) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 8 ---
+ 
+ANNEXURE-VI 
+ 
+DETAILED PROCEDURE –ADD FAMILY MEMBER MASTER DATA 
+ 
+1. UDA (Unit Dealing Assistant) 
+1.1 Access & Monitoring 
+ 
+Navigate to Add Family Member  
+ 
+Tabs available:  
+o 
+Submitted Tab → Requests pending with UAO  
+o 
+Returned Tab → Requests sent back for correction  
+ 
+1.2 Add New Family Member 
+Step 1: Initiate Request 
+ 
+Click Add Button  
+ 
+Search member using CMPF Account Number  
+ 
+Step 2: View Member Details 
+ 
+On search, member details will be displayed  
+ 
+Click Add Family Member Button  
+ 
+Step 3: Fill Details 
+ 
+Enter:  
+o 
+Family member details  
+o 
+Claim eligibility information  
+ 
+Upload supporting documents  
+ 
+Step 4: Submission 
+ 
+Click Submit  
+ 
+Request is forwarded to UAO for approval  
+ 
+2. UAO (Unit Authorized Officer) 
+2.1 Tabs Available 
+ 
+Received → New requests from UDA  
+ 
+Processed → Forwarded to AAO  
+ 
+Returned → Sent back to UDA  
+ 
+2.2 Verification Process 
+ 
+Click Req Ack ID  
+ 
+Verify:  
+o 
+Member details  
+o 
+New family member details  
+o 
+Claim eligibility  
+o 
+Uploaded documents  
+ 
+2.3 Decision at UAO 
+ 
+ Forward to AAO (after selecting AAO from dropdown)  
+ 
+ Return to UDA (if discrepancies found)  
+ 
+3. AAO (Area Authorized Officer) 
+3.1 Tabs Available 
+ 
+Received  
+ 
+Approved  
+ 
+Returned  
+ 
+ 
+3.2 Verification Process 
+
+--- PAGE 9 ---
+ 
+Click Upd Req Ack ID  
+ 
+Review:  
+o 
+Member details  
+o 
+Newly added family member details  
+o 
+Claim eligibility  
+o 
+Uploaded documents  
+ 
+3.3 Decision at AAO 
+ 
+Approve → Final approval  
+ 
+Return to UAO → If discrepancies found 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 10 ---
+ 
+ANNEXURE-VII 
+ 
+PROCESS FLOW TO UPDATE FAMILY MEMBER MASTER DATA 
+ 
+ 
+UDA Level 
+↓ 
+Use Update Family member  
+↓ 
+Update option 
+↓ 
+Search Member (CMPF A/c / Aadhaar / PAN / Mobile / Name) 
+↓ 
+View Member Details (Eye Icon) 
+↓ 
+Select Family Member 
+↓ 
+[Action] 
+      → Edit Details / Delete Member 
+↓ 
+Update Details + Upload Documents 
+↓ 
+Preview 
+↓ 
+Submit Request 
+↓ 
+Forward to UAO 
+↓ 
+------------------------- 
+UAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+     → Return to UDA (if discrepancy) 
+     → Forward to AAO 
+↓ 
+------------------------- 
+AAO Level 
+↓ 
+Review Request 
+↓ 
+[Decision] 
+     → Approve (Final) 
+     → Return to UAO(if discrepancy) 
+     → Discard (if invalid) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 11 ---
+ 
+ANNEXURE-VIII 
+ 
+DETAILED PROCEDURE –UPDATE FAMILY MEMBER MASTER 
+DATA 
+ 
+ 1. UDA (Unit Dealing Assistant) 
+1.1 Access & Tracking 
+ 
+Navigate to Update Family Member option  
+ 
+Use:  
+o 
+Submitted Tab → Requests sent to UAO  
+o 
+Returned Tab → Requests sent back for correction  
+ 
+1.2 Important Restriction 
+ 
+If claims are under process, update is not allowed  
+ 
+System will display error message  
+ 
+1.3 Use Update option & Search Member 
+Search using: 
+ 
+CMPF Account Number  
+ 
+Aadhaar  
+ 
+PAN  
+ 
+Mobile Number  
+ 
+Name  
+ 
+1.4 View & Select Family Member 
+ 
+Click Eye Icon → view details  
+ 
+Select required family member  
+ 
+1.5 Actions Available 
+✅ Edit: 
+ 
+Click Edit Icon  
+ 
+Modify:  
+o 
+Family details  
+o 
+Nominee details  
+o 
+Claim eligibility  
+ 
+Upload supporting documents  
+✅ Delete: 
+ 
+Click Delete Icon  
+ 
+Mandatory:  
+o 
+Upload documents  
+o 
+Enter remarks  
+ 
+1.6 Preview & Submission 
+ 
+Click Preview  
+ 
+Verify details  
+ 
+Click Submit  
+➡  System forwards request to UAO  
+ 
+ 
+2. UAO (Unit Authorized Officer) 
+2.1 Tabs Available 
+ 
+Received → New requests  
+ 
+Processed → Forwarded to AAO  
+ 
+Returned → Sent back to UDA  
+ 
+2.2 Review Process 
+
+--- PAGE 12 ---
+ 
+Click Upd Req Ack ID  
+ 
+Verify:  
+o 
+Member details  
+o 
+Old vs New values  
+o 
+Uploaded documents  
+o 
+Remarks  
+ 
+2.3 Decision at UAO 
+ 
+Forward to AAO  
+ 
+Return to UDA (if discrepancy)  
+ 
+3. AAO (Area Authorized Officer) 
+3.1 Tabs Available 
+ 
+Received  
+ 
+Approved  
+ 
+Returned  
+ 
+3.2 Review Process 
+ 
+Click Upd Req Ack ID  
+ 
+Verify:  
+o 
+Updated family details  
+o 
+Supporting documents  
+ 
+3.3 Decision at AAO 
+ 
+Approve → Final approval  
+ 
+Return to UAO (if discrepancy)  
+ 
+Discard (if invalid request)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1099 @@
+
+--- PAGE 1 ---
+F. No. MPS-51013/1/2020-MPS (e- 346166)
+भारत सरकार/ Government of India
+कोयला मंालय/ Ministry of Coal
+(MPS Section)
+***
+Room No. 622A, Shastri Bhawan,
+New Delhi, dated:   10th May, 2022
+ 
+ORDER
+ 
+Subject: Implementation of Root Cause Analysis (RCA) based
+accident investigation by the investigators (internal/external) to
+ensure reduction in accidents in coal mines- reg.
+          
+             The undersigned is directed to convey the decision of 
+Government for implementing Root Cause Analysis (RCA) techniques in
+accident investigation by the investigators, internal/external to ensure
+reduction in accidents in coal and lignite mines. In this regard, with a
+view to ensure culture of Root Cause Analysis (RCA) in accident or
+incident investigation, guidelines on “How to conduct accident
+investigation” and “Format for Accident reporting and ATR of
+Accident Enquiry” based on Root Cause Analysis has been enclosed as
+Annexure-I and Annexure-II for information and compliance.
+ 
+2.         Following the introduction of said Root Cause Analysis (RCA)
+techniques, all coal companies (including lignite) shall ensure
+investigation to be done through certiﬁed enquiry oﬀicers from a date
+not later than 6 months from notification of these guidelines.  
+3.    For certiﬁcation of enquiry oﬀicers in this regard, format of
+training (preferably for one week), syllabus for the training has been
+prescribed in Annexure-III. 
+ 
+4.    It is also conveyed that all such UGC approved Mining University/
+college/ institution awarding Bachelor’s degree in Mining Engineering
+having facility for such training and having faculty trained in Root
+cause analysis techniques have been authorised to issue such
+certiﬁcates. In addition, professional institutions like IICM and
+equivalent who are capable of hiring RCA trained faculties for training,
+are also be authorized to issue such certificates.  
+ 
+      This issues with the approval of competent authority.
+ 
+Encl.: As above.
+ 
+ 
+ (Hitlar Singh)
+Under Secretary to the Govt. of India
+e-mail id: hitlar.singh85@nic.in
+I/29444/2022
+
+--- PAGE 2 ---
+To,
+ 
+1. Chairman, CIL, Kolkata.
+2. CMD, NLCIL, Neyveli.
+3. CMD, SCCL, Kothagudem.
+4. CMDs of BCCL/ECL/CCL/SECL/WCL/MCL/NCL and CMPDI
+5. The Director General, Directorate General of Mines Safety, Dhabhad (Jharkhabnd)
+6. Director, (Tech.), CIL/ Director (P), CIL, Kolkata
+7. All UGC approved Mining Universities/ College/ Institutions.
+8. MDs Private and Public Sector coal companies (As per list)
+9. NIC – for placing on website of MoC.
+ 
+Distribution list:
+1. Sasan Power Ltd. (subsidiary of PFC), H-Block 1st floor Dhirubhai Ambani Knowledge
+City, Navi Mumbai Navi Mumbai- 400710 IN roowermcafilincarelianceada.com
+2. Shri Gurdeep Singh, Chairman-cum Managing Director, NTPC Ltd, NTPC Bhawan,
+SCOPE Complex, Institutional Area, Lodhi Road, New Delhi - 110003.
+ntoccc(&ntpc.co.in usnandamAntpc.co.in akdash(&.ntpc.co.in
+3. Shri Anil Kumar Chaudhary, Chairman, Steel Authority of India Ltd. (spat Bhawan, Lodhi
+Road, New Delhi- 110003 chairman.sailna sailcro2015Aornail.com
+4. Shri Santranu Basu, IAS, Chairman-cum Managing Director, West Bengal Power
+Development Corp. Ltd, Bidyut Unnayan Bhaban, Plot No - 3/C, LA Block, Sector-Ill, Salt
+Lake City, Kolkata- 700098 ambarroy@wbpdcl.co.in
+5. Shri Satish Pal, Managing Director, Hindalco Industries Ltd, Aditya Birla Centre, 3rd
+Floor, 'B' Wing, S.K. Ahir Marg, Worli, Mumbai -400030
+shouvik.majumder@adityabirla.com
+6. Shri Hemant Sharma, Chairman, Odisha Coal & Power Ltd, Zone-A, Ground Floor,
+Fortune Towers, Chandrasekharpur, Bhubaneswar - 751023
+kshirod.brahma@ocpl.org.in
+7. Adani Power Limited , Shantigram, Near Vaishnodevi Circle, S G Highway, Ahmedabad-
+382421, Gujarat, Rajesh.Tiwari1@adantin
+8. Shri Rakesh Kumar, Chairman-cum Managing Director, NLC India Ltd, 1st Floor, No-8,
+Mayor Sathyamurthy Road, FSD, Egmore Complex of Food Corporation of India,
+Chetpat, Chennai – 600031 cmd@nlcindia.in gmtalabira.nlc@gmail.com
+9. Shri Sumit Ghosh, Chief Executive Officer, CESC Ltd, Cesc House, 4th Floor,
+Chowranghee Square, Near Esplante Metro Station, Kolkata - 700001
+jha.shashwat@gmail.com
+10. Shri Ashis Saha, Managing Director, The Durgapur Project Ltd, Dr B C Roy Avenue,
+Durgapur, West Bengal -713201 admin@dpl.net.in
+11. Shri B.P. Mishra, Managing Director, OCL Iron & Steel Ltd, Village: Lamloi, P.O.
+Garvana, Rajgangpur, Orissa - 770017 bp.misra@bsilindia.com
+12. Shri Pranav Bhardwaj, Managing Director, Sunflag Iron & Steel Company Ltd, 33, Mount
+Road, Sardar, Nagpur - 440001 skgupta@sunflagsteel.com
+13. The Chairman-cum Managing Director, Topworth Urja & Metals Ltd, 308, 3rd Floor,
+Ceejay House, Dr. Annie Besant Road, Worli, Mumbai - 400018
+anand.azamigtopworthgroup.com
+14. Shri Prabhakar Rao, Chairman cum Managing Director, Telangana State Power
+Generation
+Cooperation Ltd, Kalyan Nagar, Erragadda, Hyderabad, Telangana - 500045
+ce.com@tsgenco.co.in
+15. The Chairman & Managing Director, Rajasthan Rajya Vidyut Utpadan Nigam Ltd, Vidyut
+I/29444/2022
+
+--- PAGE 3 ---
+Bhawan, Jyoti Nagar, Janpath, Jaipur - 302005 fuel.rvun@gmail.com
+16. Shri Shivraj Singh, IAS (Retd), Chairman, Chhattisgarh State Power Generation
+Corporation Ltd, Ground Floor, Vidyut Sewa Bhawan, Dangania, Raipur, Chhattisgarh-
+492013 cspgcl.coal@gmail.com
+17. Shri S.K. Roongta, Chairman, Bharat Aluminum Company Ltd, Aluminium Sadan, Core-
+6, Scope Office Complex, Lodhi Road, New Delhi - 110003
+north.aluminium@vedanta.co.in
+18. Shri Ajay Kapur, Managing Director, Ambuja Cements Ltd, Elegant Business Park,
+MIDC Cross Road 'B', Office Andheri Kurla Road, Andheri (East), Mumbai - 400059
+kamlesh.sharma.ext@ambujacement.com
+19. Shri Manoj Gaur, Chairman, Jaiprakash Power Venture Ltd, Complex of Jaypee Nigrie
+Super Thermal Power Plant, Tehsil Sarai, Nigrie, Singrauli, Madhya Pradesh - 486669
+mn.jha@jalindia.co.in
+20. Shri B.R. Nahar, Managing Director, Reliance Cement Company Pvt. Ltd, 'H' Block, 1st
+Floor, Dhirubhai Ambani Knowledge City, Navi Mumbai, Maharashtra - 400710
+sandeep.jain@rc.birlacorp.com
+21. Shri K.K. Maheshwari, Managing Director, Ultra tech Cement Ltd, 'B' Wing, Ahura
+Centre, 2nd Floor, Mahakali Caves Road, Adheri (East), Mumbai - 400009
+syed.khadry@adityabirla.com
+ 
+I/29444/2022
+
+--- PAGE 4 ---
+                                 
+ANNEXURE- I 
+ 
+ How to conduct accident investigation 
+ 
+The whole accident investigation process is divided in to three stages. The stages are:  
+1. Inspection of site of accident and collection of primary data  
+2. Collection of detailed information, data or evidences related to the events and causes of the 
+accident for using them in accident analysis to find out the causal path and contributory 
+factors.  
+3. Analysis of the collected information using Root Cause Analysis (RCA) techniques for 
+establishing logical path of occurrence of the accident and the causal factors of the accident 
+for making appropriate recommendation to prevent reoccurrence of similar accident/incident.  
+ 
+There are several steps under each stages of the investigation, right from reporting of accident 
+to development of corrective actions. The flow chart is also developed in three stages 
+incorporating the steps involved in each stage. Each stage of the investigation process is 
+explained in the following sections. 
+ 
+ 
+ Stage 1. Inspection of site of accident and collection of primary data  
+ 
+In the first stage of accident investigation, different steps involved before and during the site 
+inspection are outlined as follows:  
+1. Collecting initial information about the accident  
+2. Collecting details about mine under investigation  
+3. Collecting details about the accident  
+4. Collecting details about the place of accident Capturing details of the site of accident  
+5. Assessing risk before site inspection  
+6. Implementing controls measures before entering site  
+7. Incorporating documents of risk assessment of accident site in the accident 
+investigation report.  
+8. Taking photographs of accident site  
+9. Making sketches of site of accident 
+10. Collecting on spot relevant information/data from the associated people 
+Collecting/seizing/preserving of documents/evidence/material etc.  
+11. Collecting information about workplace environmental condition  
+12. Collecting additional data / information / document / evidence / material etc. after 
+first round of collection of information/data.  
+13. Assessing risk before releasing the site of accident  
+14. Implementing control measures before releasing site  
+15. Collecting details about victim (s) & witness (s): providing scope for collecting 
+information about the victim (s) and witness (s) (both primary and secondary 
+witness(s)). 
+
+--- PAGE 5 ---
+ Stage 2: Planning for Detailed Data Collection  
+ 
+Stage 2 of the investigation mainly deals with collection of relevant information/data to be 
+used for analysis at stage 3 to find out the root causes. This requires detailed planning of data 
+collection before actually collecting them. This planning will help the investigators to collect 
+useful and relevant information/data, evidences, and not to miss vital information. This 
+planning of data collection is done by developing an incident tree followed by Accident 
+Causation Tree based on the “5-whys” technique. In the following section, it is explained how 
+the investigation methodology provides the scope of planning for data collection and 
+capturing data/information and evidences during the process of investigation:  
+1) Planning for detailed data collection by developing an incident tree followed by Accident 
+Causation Tree using “5-why” technique with the primary data.  
+2) Identification of list of information/data to be collected related to involvement of People, 
+Environment, Equipment, Procedure, Organisation and (PEEPO) factors in causation of the 
+accident following the developed incident tree and Accident Causation Tree.  
+3) Collecting information from the associated people regarding involvement of PEEPO in 
+causation of the accident by conducting personal interview, or from records, documents, 
+diaries etc.  
+4) Collection of information from additional people who were directly or indirectly involved 
+in the accident but their statement etc. not collected earlier.  
+5) Collection of information about Task Environment and Work Environment like work 
+pressure, less than adequate task planning etc. and workplace environmental conditions like 
+weather conditions, status of housekeeping, illumination etc. at the time of accident 
+incorporating details of the environmental parameters as observed/measured.  
+6) Collecting information related to involvement of plant/equipment/instruments/ accessories 
+or materials or tools etc. including adequacy of safety features or safety provisions, 
+operability, maintenance etc. in causation of the accident.  
+7) Collecting information about the effect of procedures related to the activities or hazards 
+leading to the accident like availability/absence of procedure and adequacy or effectiveness of 
+the procedures related to the activities or hazards in causation of the accident.  
+ 
+8) Collecting information about the effect of organisational factors related to the accident (as 
+provided in Step 4) in causation of the accident.  
+9) Collecting information about any other issues related to accident  
+ 
+ Stage 3: Data Analysis, Determination of the Root Causes along with all Possible 
+Causes, Implementing Corrective Actions  
+ 
+In stage 3 of accident investigation, analysis of the accident is conducted to find out “how” 
+and “why” did it happen? This is the most important step of accident investigation. Detailed 
+methodology to be adopted and tools to be used at different steps of accident analysis have 
+been described in section 2.  
+ 
+It is important to conduct the accident analysis systematically, step by step, to ensure that the 
+causation path of the accident is established as correctly as possible and each node of the 
+
+--- PAGE 6 ---
+causation path is validated with available data/evidences/information. For systematic and 
+logical analysis of all collected information, a structured and systematic approach is proposed 
+in this accident investigation methodology to establish “how” the accident took place and 
+“what” the contributory factors that led to the accident.  
+ 
+The following section provides how to proceed through this stage of accident investigation 
+and different steps of accident analysis are outlined with a flow diagram to guide the 
+investigators progressing systematically to the end point of identification of corrective actions 
+and developing action plan:  
+ 
+1) Developing an incident tree based on the collected information/data/evidence etc as per the 
+time line.  
+2) Validating each event of the incident tree against the collected data/evidences  
+3) Identifying missing information/data for validation of Incident Tree  
+4) Collecting the specific information/data/material etc. as identified in previous step  
+5) Validating each node of the incident tree  
+6) Correcting and updating the developed incident tree  
+7) Developing the event sequence hypothesis from the valid incident tree  
+8) Identifying the contradictory fact/statement about the valid event sequence hypotheses  
+ 
+9) Collecting details about the contradictory facts of the accident hypothesis  
+10) Developing an Accident Causation Tree based on the collected information/data/evidence 
+etc. (Figure 1) 
+11) Validating each node of the Accident Causation Tree with the collected information/data  
+12) Identifying the missing data/information/material etc. for validation of Accident 
+Causation Tree  
+13) Collecting specific information/data/material etc. which were missing.  
+14) Validating the Accident Causation Tree with the collected data /information / evidences.  
+15) Developing hypothesis of all possible causal path of the accident from the valid chains of 
+Accident Causation Tree  
+16) Identifying the contradictory fact/statement about the valid causal path and its sequences  
+17) Collecting details about the contradictory facts about the causal path of accident   
+18) Generating an Event and Causal Factors Sequence Diagram (ECFSD) (Figure 2 & 3) 
+19) Classifying the causal factors in different category like Organisational Factors (OF), Task 
+Environment (TE), Work Environment (WE), Human Factors (HF) and Failed Defences 
+(FD).  
+20) Generating a Logical Sequence of Contributory Factors Diagram (LSCFD): Providing a 
+scope for establishing the relationship between different sets of causal factors of the accident 
+showing the logical sequences of contributory factors leading to the top event. (Figure 5) 
+ 
+21) Developing the corrective actions against each of the identified root causes, possible and 
+potential causes of the accident following the valid causal paths and event sequence 
+hypotheses of the accident considering the hierarchy of controls and the essential parameters 
+of effective recommendations like Specific, Measurable, Accountable, Reasonable, Timely, 
+Effective, Reviewed.  
+22) Developing the corrective actions against identified causes along the alternative causal 
+paths, having the potentiality to cause similar accident.  
+23) Reviewing and examining the effectiveness of developed recommendations  
+
+--- PAGE 7 ---
+24) Generating draft report of the  
+27) Developing key lessons of the accident investigation which will be applicable to the 
+whole industry as key lessons for overall safety improvement.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LTA –Less than adequate  
+OF – Organizational Factor 
+ 
+RA – Risk Assessment  HF – Human Factor 
+ 
+ 
+Figure 1: Example of Accident Causation Tree  
+ 
+ 
+OF 
+LTA survey 
+organisation 
+LTA survey 
+procedure 
+LTA resource 
+for survey 
+LTA awareness about 
+wrong survey 
+LTA competency 
+of surveyors 
+Survey plan was 
+not cross checked 
+Work conditions 
+Wrong placement of 
+ventilation connection 
+Working got connected with the old 
+working (water source) 
+Mine worker were present in under ground 
+Coal mine Disaster due to inrush of water 
+Wrong survey 
+plan 
+LTA Risk Assessment 
+while selection 
+connection point 
+LTA supervision & 
+monitoring of work 
+place 
+Normalisation of 
+abnormal 
+conditions 
+Work 
+pressure 
+LTA 
+competency 
+LTA task 
+planning 
+No culture of RA 
+No procedure for 
+RA 
+LTA competency 
+for RA 
+OF 
+OF 
+OF 
+OF
+OF, HF 
+OF 
+OF 
+OF 
+
+--- PAGE 8 ---
+ 
+ 
+Figure 2: Schematic of Event & Causal Factors Sequence Diagram (ECFSD) 
+ 
+ 
+ 
+ 
+Figure 3: Example of Event & Causal Factors Sequence Diagram (ECFSD) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 9 ---
+ 
+ 
+Figure 4: Example of Logical Sequence of Contributory Factors Diagram (LSCFD) 
+ 
+ 
+6.0 Recommendations for Corrective Actions  
+ 
+The investigation should identify recommendations for corrective actions to prevent 
+recurrence. This can best be achieved by addressing all absent or failed defences and 
+organisational factors identified by the ICAM analysis. Not all contributing factors can be 
+completely eliminated, and some may be eliminated only at a prohibitive cost. The 
+investigation team should work with line management in the development of corrective 
+actions. The corrective actions recommended by the investigation team should be: 
+ 
+Each recommendation is a written statement of the action management should take to correct 
+a contributing factor. The team reviews each contributing factor and:  
+ formulates recommendations which, if implemented, will reduce the likelihood of 
+that factor contributing to future incidents;  
+ recommends improvement to the system defences to limit the consequences of the 
+contributing factor, so that residual risk is recognised by management as acceptable; 
+ makes interim recommendations for immediate corrective actions after an incident or 
+near-miss as a short-term measure to mitigate current risks prior to the establishment 
+of long-term corrective actions. It is essential any corrective action be fully evaluated 
+by Management to ensure change/s do not weaken other defences or expose other 
+risks. 
+ Recommendations should be based upon the Hierarchy of Controls. 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 10 ---
+ 
+6.1 Hierarchy of Controls 
+ 
+Elimination 
+Complete elimination of hazard 
+Substitution 
+Replacing material or process with less hazardous 
+one 
+Engineering 
+Redesign of equipment or work process 
+Separation 
+Isolating hazard by guarding or enclosure 
+Administration 
+Training, Procedures etc 
+PPE 
+Appropriate and properly fitted PPE when other 
+controls are not effective 
+ 
+ 
+ 
+
+--- PAGE 11 ---
+Annexure II 
+Format for Accident reporting and ATR of Accident Enquiry based on Root Cause Analysis 
+ 
+Company: 
+Name of Mine: 
+Owner: 
+Date of Accident: 
+Location of the accident:                         UG/Opencast/Surface 
+Brief description of the accident: 
+ 
+Findings of the Enquiry Authority (DGMS, ISO etc): 
+ 
+Identified Causes in brief: 
+ 
+Identified root causes of the accident related to 
+ 
+Direct 
+Cause / 
+Failed 
+defence   
+(failure to act / 
+failure to 
+operate / 
+failure to detect 
+/ failure to 
+perform/ failure 
+to activate / 
+failure of 
+barrier / 
+isolation/ 
+failure of 
+protection) 
+Procedure 
+(Procedure or 
+Practices / 
+Process / SoPs/ 
+Risk 
+assessment/ 
+Safe work 
+instructions / 
+Emergency 
+response 
+system/First 
+response/ 
+TARPs/ ) 
+People 
+(People / 
+Human 
+behaviour/ 
+Competency / 
+Training / 
+Experience / 
+Fitness for 
+work / 
+Fatigue) 
+Equipment 
+ 
+Equipment / 
+Accessories/ 
+Tools / 
+Materials / 
+Safety 
+features/   
+Work 
+Environment 
+(Heat, Humidity, 
+Dust, light, gas, 
+water 
+accumulation, 
+working at height, 
+confined space / 
+layout 
+Task 
+environment 
+(Multiple activity, 
+complexity, 
+communication, 
+functional 
+delegation, 
+supervision, time 
+constraint/ multiple 
+authority/ 
+hierarchical 
+dominance  
+Organizational 
+factors  
+(lack of policy 
+/communication/ 
+participation / 
+consultation/  
+resources/ 
+organization/ 
+Supervision / 
+Leadership/ Conflict 
+of goals etc 
+Remarks 
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
+ 
+2.  
+2.  
+2.  
+2.  
+2.  
+2.  
+2.  
+ 
+3.  
+3.  
+3.  
+3.  
+3.  
+3.  
+3.  
+ 
+
+--- PAGE 12 ---
+Action Taken Report (ATR) of Recommendation/Findings 
+ 
+Direct Cause / 
+Failed Defence 
+Contributory Factors  
+Recommendation
+/findings 
+Responsibility 
+for 
+implementation 
+Timeline for 
+implementation 
+Details of Action Taken 
+with date  
+Remarks 
+Mine 
+Level 
+Area 
+Level 
+Compa
+ny level 
+ 
+1.  
+Procedure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+People  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  
+1.  
+ 
+ 
+ 
+ 
+ 
+ 
+2.  
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+Equipment  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Work environment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Task environment  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizational factors   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+Procedure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+People  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equipment  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 13 ---
+Direct Cause / 
+Failed Defence 
+Contributory Factors  
+Recommendation
+/findings 
+Responsibility 
+for 
+implementation 
+Timeline for 
+implementation 
+Details of Action Taken 
+with date  
+Remarks 
+Mine 
+Level 
+Area 
+Level 
+Compa
+ny level 
+ 
+Work environment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Task environment  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizational factors   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 14 ---
+ANNEXURE-III 
+SYLLABUS OF TRAINING PROGRAM ON ACCIDENT 
+INVESTIGATION BASED ON ROOT CAUSE ANALYSIS 
+Sl. 
+No.  
+Contents 
+1. INTRODUCTION 
+ 
+ 
+Definition: ACCIDENT / INCIDENT / NEAR MISS/ HIGH 
+POTENTIAL INCIDENTS 
+ 
+Objectives of accident investigation 
+ 
+Why Investigate? 
+2. STEPS OF INVESTIGATION 
+ 
+IMMEDIATE ACTIONS 
+ Securing the site 
+ Notification 
+INVESTIGATIONS PLANNING 
+ Determining level of investigation 
+ Roles and Responsibilities 
+3. INVESTIGATION PROCESS FLOW 
+CHART 
+INVESTIGATIONS PLANNING 
+ 
+DATA COLLECTION 
+ 
+DATA ORGANISING 
+ 
+DATA ANALYSIS 
+ 
+RECOMMEND AND REPORT 
+ 
+4. INVESTIGATION PROCESS 
+Site Inspection 
+Planning meeting 
+Team Safety 
+5. INVESTIGATIONS PLANNING 
+ 
+Determining level of investigation 
+ 
+Investigation Team 
+ 
+Roles and Responsibilities 
+ 
+6. INVESTIGATION PROCESS 
+Gathering information from the incident scene 
+ Photography 
+ Preserving evidence 
+ Interviews 
+ 
+7. INTERVIEWS 
+ 
+General Principles of Interviewing 
+ 
+Conducting Interviews 
+ 
+Witness Statement 
+ 
+Important points to be considered while interviewing 
+ 
+8. COLLECTION OF RELEVANT DATA 
+ 
+ People related 
+ Environment related 
+ Equipment related 
+ Procedures related 
+ Organization related 
+
+--- PAGE 15 ---
+9. SCOPE OF DATA GATHERING 
+ Additional Data Sources 
+ Investigator’s ‘Go Kit’ 
+ 
+10. DATA ORGANISATION  
+ 
+Building sequence of events and time line 
+ 
+Event and Condition Charts 
+ 
+Incident Tree 
+ 
+11. DATA ANALYSIS 
+ 
+Root Cause Analysis 
+The Five Whys 
+ 
+12. INCIDENT CAUSE AND ANALYSIS 
+METHOD 
+ 
+ Elements of Organisational Accident 
+ Reason’s Swiss Cheese Model of accident 
+analysis 
+ Development of causation hypotheses from 
+Incident Tree, Event and Condition Charts 
+and event & causal factors sequence 
+ Validation of hypotheses with valid 
+evidences  
+ Remove contradictions 
+ Review accepted hypotheses 
+13. IDENTIFICATION OF 
+CONTRIBUTORY FACTORS 
+ 
+Identify the Absent or Failed Defences 
+ 
+Identify the Individual/Team Actions 
+ Human error types 
+ Human Factors 
+Identify the Task/Environmental Conditions 
+ Workplace Factors 
+ Error Factors 
+ Common Factors 
+ Violation Factors 
+  
+ 
+Identify the Organisational Factors 
+14. RULES OF ACCIDENT CAUSATION 
+ 
+ 
+15. DATA ANALYSIS TECHNIQUES IN 
+ACCIDENT INVESTIGATION  
+ 
+ Change Analysis 
+ Job Safety Analysis 
+ Energy Barrier Analysis 
+ 
+Change Analysis  
+ 
+Identify the Individual/Team Actions 
+ 
+Identify the Task/Environmental 
+Conditions 
+ 
+Identify the Organisational  Factors 
+ 
+16. IDENTIFICATION OF ROOT 
+CAUSES 
+ROOT CAUSES 
+Understanding the Causes of the Incident 
+ Basic causes 
+ contributing factors and  
+ Root causes 
+ 
+ 
+
+--- PAGE 16 ---
+ 
+17. RECOMMENDATIONS 
+ 
+Characteristics of Recommendations 
+Corrective Action Development 
+ 
+Hierarchy of Controls 
+ 
+Tracking Recommendations 
+ 
+Impact and Potential Benefit Assessment 
+ 
+18. CONCLUDING THE 
+INVESTIGATION 
+ 
+ 
+19.
+TEMPLATE OF 
+ACCIDENT / INCIDENT 
+INVESTIGATION 
+REPORT 
+ 
+1. Introduction 
+2. Incident Description  
+3. Events timeline 
+4. Accident causation pathway 
+5. Key Findings  
+ Basic cause (i.e. “Why did the incident 
+occur?”).  
+ Contributing factors  
+o Absent or failed defences 
+o Individual or team actions  
+o Task or environmental condition  
+o Organisational factors. 
+6. Conclusion and Observations  
+7. Recommendations  
+8. Significant Learnings  
+a.  Accident Analysis  
+b.  Corrective Action Plan  
+• Recommendation  
+• Responsible Department  
+• Responsible Person  
+• Completion  
+• Date  
+• Sign off 
+9. Report Sign-off 
+ 
+20. CASE STUDIES 
+ 
+ 
+ 

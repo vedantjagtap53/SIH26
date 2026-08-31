@@ -1,0 +1,20 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Because we use a Hybrid Architecture (Python Backend + Firebase),
+    // the frontend client should NOT have direct write access to most collections.
+    // All creations and modifications should go through our FastAPI backend,
+    // which uses the Admin SDK (bypassing these rules).
+    
+    // Deny all client read/writes by default
+    match /{document=**} {
+      allow read, write: if false;
+    }
+    
+    // Allow users to read their own profile (useful if frontend queries it directly)
+    match /users/{userId} {
+      allow read: if request.auth != null && request.auth.uid == userId;
+      allow write: if false; // Only backend updates user roles/status
+    }
+  }
+}

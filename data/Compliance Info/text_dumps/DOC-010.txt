@@ -1,0 +1,259 @@
+
+--- PAGE 1 ---
+FINANCE HEAD 
+Finance Head (FH) is provided with a pre-defined Login ID. He/she would be required to enroll to 
+the portal to create the password. Post enrollment, FH can login into his/her account by clicking 
+on Officer Login under the Login tab. 
+After logging into the account, following functionalities are provided: 
+1. Search Member               2. Create New Role 
+ 
+1. Search Member 
+In the Search Member section, the officer can view a member’s details by entering any of the 
+following information (Figure 1): 
+i. CMPF Account Number 
+ii. Aadhaar Number 
+iii. PAN 
+iv. Mobile Number 
+v. Name 
+ 
+Figure 1: Search Member Interface 
+By clicking the eye icon next to a member’s name, the officer can view detailed information such 
+as personal details, employment information, PF and pension details, and family details (Figure 
+2). 
+
+--- PAGE 2 ---
+ 
+Figure 2: Member Details View 
+ 
+ 
+
+--- PAGE 3 ---
+2. Create New Role 
+In the Create New Role tab, the FH can assign one or more roles to any officer listed in the Select 
+Officer dropdown (Figure 3). 
+ 
+Figure 3: Role Assignment 
+After selecting an officer’s name, the FH must choose a role from the Select Role dropdown and 
+click Assign to allocate that role to the selected officer. Each role can only be assigned once to a 
+specific officer. 
+Once a role is successfully assigned, an email is automatically sent to the officer’s registered 
+email address containing their Login ID. The officer must then complete the enrollment process 
+under the Officer Enrollment tab on the home page using the received Login ID. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 4 ---
+MAKER 
+Maker (MKR) is provided with a pre-defined Login ID. He/she would be required to enroll to the 
+portal to create the password. Post enrollment, MKR can login into his/her account by clicking on 
+Officer Login under the Login tab. 
+After logging into the account, the following functionalities are provided: 
+1. Search Member                   2. VV Upload 
+ 
+1. Search Member 
+In the Search Member section, the officer can view a member’s details by entering any of the 
+following information (Figure 1): 
+i. CMPF Account Number 
+ii. Aadhaar Number 
+iii. PAN 
+iv. Mobile Number 
+v. Name 
+ 
+Figure 1: Search Member Interface 
+By clicking the eye icon next to a member’s name, the officer can view detailed information such 
+as personal details, employment information, PF and pension details, and family details (Figure 
+2). 
+
+--- PAGE 5 ---
+ 
+Figure 2: Member Details View 
+ 
+ 
+
+--- PAGE 6 ---
+2. VV Upload 
+In the VV Upload tab, the officer can view all previously submitted VV/PS5 reports under 
+the Submitted tab. Reports returned by the Checker Officer appear under the Returned tab. A 
+search bar is also available to find reports using their VV ID (Figure 3). 
+ 
+Figure 3: Submitted and Returned VV/PS5 Reports 
+To submit a new VV report, click the Upload VV/PS5 button. This opens the New VV Statement & 
+PS5 Upload tab, which contains two sections — VV Statement and PS5 Verification (Figure 4). 
+ 
+Figure 4: VV Statement and PS5 Upload Sections 
+In the VV Statement section, the officer can upload member data for a specific month by selecting 
+the Excel file and clicking Verify VV Statement. Once verified, the system displays the Fund 
+Summary, Total Provident Fund, and Total Pension Fund. If the uploaded file is missing required 
+headers, an error message appears stating “Missing required header(s) in VV Statement.” 
+In the PS5 Verification section, upload the PS5 verification Excel file and click Verify PS5. If both 
+Excel sheets match successfully, a verified symbol will be displayed (Figure 5). 
+
+--- PAGE 7 ---
+ 
+Figure 5: PS5 Verification Process 
+After successful verification, select the Checker Officer from the dropdown and click Forward to 
+Checker. The report will then be sent to the selected officer for review. 
+If certain member records are missing from the database, those entries appear under 
+the Suspense Accounts section. In such cases, the missing member details must be added to the 
+system. Once the information is updated, the respective PF and Pension Amounts automatically 
+link to the member’s ledger, allowing them to view the updated data (Figure 6). 
+ 
+Figure 6: Handling Suspense Accounts 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 8 ---
+CHECKER 
+Checker (CKR) is provided with a pre-defined Login ID. He/she would be required to enroll to the 
+portal to create the password. Post enrollment, CKR can login into his/her account by clicking on 
+Officer Login under the Login tab. 
+After logging into the account, following functionalities are provided: 
+1. Search Member                        2. VV Upload 
+↑ Back to Top 
+1. Search Member 
+In the Search Member section, the officer can view a member’s details by entering any of the 
+following information (Figure 1): 
+i. CMPF Account Number 
+ii. Aadhaar Number 
+iii. PAN 
+iv. Mobile Number 
+v. Name 
+ 
+Figure 1: Search Member Interface 
+By clicking the eye icon next to a member’s name, the officer can view detailed information such 
+as personal details, employment information, PF and pension details, and family details (Figure 
+2). 
+
+--- PAGE 9 ---
+ 
+Figure 2: Member Details View 
+ 
+ 
+
+--- PAGE 10 ---
+2. VV Upload 
+In the VV Upload tab, the Checker Officer can view all reports received from the Maker 
+Officer under the Received tab. Reports returned by the Checker appear in the Returned tab, while 
+the Processed tab lists all reports forwarded to the Approver Officer. A search bar is also 
+available to locate reports using their VV ID (Figure 3). 
+ 
+Figure 3: Received and Processed Reports 
+The Checker can review a report by clicking its VV ID. Once opened, both the VV 
+Statement and PS5 Data are displayed in a tabular format. These details are automatically 
+generated from the Excel files uploaded by the Maker Officer (Figure 4). 
+At the bottom of the report, a Remarks section is provided. The Checker can select an Approver 
+Officer from the dropdown menu and click Forward to Approver to send the report for approval. 
+If discrepancies or incorrect data are found, the Checker can return the report to the Maker Officer 
+by clicking Return. After returning a report, a confirmation message such as "VV Statement and 
+PS5 returned successfully" will appear (Figure 4). 
+
+--- PAGE 11 ---
+ 
+Figure 4: Forward or Return Report 
+Once the report has been successfully forwarded, it will appear under the Processed tab for record 
+tracking (Figure 5). 
+ 
+Figure 5: Processed Report Overview 
+ 
+
+--- PAGE 12 ---
+ 
+APPROVER 
+Approver (APR) is provided with a pre-defined Login ID. He/she would be required to enroll to the 
+portal to create the password. Post enrollment, APR can login into his/her account by clicking on 
+Officer Login under the Login tab. 
+After logging into the account, following functionalities are provided: 
+1. Search Member                 2. VV Upload 
+1. Search Member 
+In the Search Member section, the officer can view a member’s details by entering any of the 
+following information (Figure 1): 
+i. CMPF Account Number 
+ii. Aadhaar Number 
+iii. PAN 
+iv. Mobile Number 
+v. Name 
+ 
+Figure 1: Search Member Interface 
+By clicking the eye icon next to a member’s name, the officer can view detailed information such 
+as personal details, employment information, PF and pension details, and family details (Figure 
+2). 
+
+--- PAGE 13 ---
+ 
+Figure 2: Member Details View 
+ 
+ 
+
+--- PAGE 14 ---
+2. VV Upload 
+In the VV Upload tab, the Approver Officer can view all VV/PS5 reports received from the Checker 
+Officer under the Received tab. Reports that have been returned by the Approver are listed under 
+the Returned tab, while approved reports appear under the Processed tab. A search bar is also 
+provided to search for reports using their VV ID (Figure 3). 
+ 
+Figure 3: Received and Processed Reports 
+The Approver can review the details of any report by clicking on its VV ID. After clicking, both 
+the VV Statement and PS5 Data are displayed in a tabular format. These details are automatically 
+generated from the Excel file uploaded by the Maker Officer (Figure 4). 
+
+--- PAGE 15 ---
+ 
+Figure 4: VV Statement and PS5 Details 
+At the bottom of the report, a Remarks section is available. If all details are correct, the Approver 
+can approve the report by clicking the Approve button. If any discrepancies are found, the 
+Approver can return the report to the Checker Officer with appropriate remarks. Once the report 
+is approved, the member’s PF and Pension data are automatically updated in their ledger, and the 
+member can view the revised PF and Pension amounts for that month (Figure 5). 
+ 
+Figure 5: Approve or Return Report 
+If certain member records are missing from the database, those entries will appear under 
+the Suspense Accounts section. In such cases, the missing member information must be added 
+
+--- PAGE 16 ---
+to the system. Once updated, the corresponding PF and Pension amounts are automatically linked 
+to the member’s ledger, enabling the member to view their updated data (Figure 6). 
+ 
+Figure 6: Handling Suspense Accounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

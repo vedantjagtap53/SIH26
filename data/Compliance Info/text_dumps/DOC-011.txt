@@ -1,0 +1,120 @@
+
+--- PAGE 1 ---
+ 
+Annexure – I 
+ 
+Process Flow for Upload of VV Statements in C-CARES Portal 
+ 
+Finance Head (Coal Company) 
+        │ 
+        │ Assign Roles in C-CARES Portal 
+        ▼ 
+Maker Officer 
+Upload VV Statement + PS5 File 
+Verify VV & PS5 
+        │ 
+        ▼ 
+Forward to Checker 
+        │ 
+        ▼ 
+Checker Officer 
+Verify Data 
+ │            │ 
+ │            │ 
+Return to     Forward to 
+Maker         Approver 
+ │            │ 
+ ▼            ▼ 
+Maker        Approver Officer 
+Correction   Final Approval 
+                │ 
+                ▼ 
+PF & Pension Contributions 
+Posted to Member Ledger 
+                │ 
+                ▼ 
+Handling Suspense Accounts 
+(Member data to be updated 
+if not available in system) 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 2 ---
+ 
+Annexure – II 
+ 
+Detailed Procedure for Upload of VV Statements 
+ 
+1. Role Assignment by Finance Head 
+The Finance Head of the Coal Company shall log into the C-CARES Officer Portal and 
+assign the following roles through the Create New Role option: 
+ 
+Maker (MKR)  
+ 
+Checker (CKR)  
+ 
+Approver (APR)  
+Each role shall be assigned to designated officers responsible for VV Statement processing. 
+ 
+2. Maker Stage – Upload of VV Statement 
+The Maker Officer shall: 
+1. Login to Officer Login in the C-CARES Portal.  
+2. Navigate to the VV Upload section.  
+3. Select the month and year for which the VV statement is to be uploaded.  
+4. Upload the following files:  
+o 
+VV Statement Excel file  
+o 
+PS5 Verification Excel file  
+5. Click Verify VV Statement.  
+6. Upload the PS5 file and click Verify PS5.  
+7. After successful verification, the system will display:  
+o 
+Fund Summary  
+o 
+Total Provident Fund  
+o 
+Total Pension Fund  
+8. Forward the verified report to the Checker Officer.  
+ 
+3. Checker Stage – Verification 
+The Checker Officer shall: 
+ 
+Review the VV Statement and PS5 data uploaded by the Maker.  
+
+--- PAGE 3 ---
+ 
+Verify the correctness of the information.  
+The Checker may: 
+ 
+Return the report to Maker in case of discrepancies, or  
+ 
+Forward the report to the Approver Officer for final approval.  
+Returned reports will appear under the Returned Tab for correction and resubmission. 
+ 
+4. Approver Stage – Final Approval 
+The Approver Officer shall: 
+ 
+Review the VV Statement and PS5 verification data.  
+ 
+Approve the report if found correct.  
+Upon approval: 
+ 
+Provident Fund contributions are posted to the Member PF Ledger.  
+ 
+Pension contributions are posted to the Member Pension Ledger.  
+ 
+Members can view the updated contributions for the respective month.  
+ 
+5. Handling Suspense Accounts 
+If certain member records are not available in the database: 
+ 
+Such entries will appear under Suspense Accounts.  
+ 
+The missing member details must be added to the system.  
+ 
+Once updated, the corresponding PF and Pension amounts will automatically link to 
+the member ledger. 

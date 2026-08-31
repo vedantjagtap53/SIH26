@@ -1,0 +1,396 @@
+
+--- PAGE 1 ---
+1.Creation of Master Data of New Member & Existing Member 
+ 
+Under UDA login , a request for creation of master data of a New Member (New Joinee who has to be issued 
+CMPF A/c Number) and  Existing member ( who was issued CMPF A/c Number offline) can be intiated. 
+ 
+Following are steps involved : 
+ 
+UDA (UNIT DEALING ASSISTANT) 
+The Add New Member option allows the Unit Dealing Assistant (UDA) to add new members to the CMPF 
+system. 
+1. Under the Submitted tab, the UDA can view all new requests submitted for adding a member. These 
+requests are waiting for review and approval by higher officers. 
+2. Under the Returned tab, the UDA can view all requests that were sent back by higher officers due to 
+errors or missing information. The UDA should correct the details and resubmit the request. 
+3. Under the Approved tab, the UDA can view all requests that have been reviewed and approved by 
+higher officers. 
+The Add New Member button also appears on the right side of the page (Figure 1). 
+ 
+Figure 1: Add New Member Tab 
+By clicking the Add New Member button, a detailed form for adding a new member appears. The UDA can 
+fill in all the required information, such as personal details, employment details, and bank account details for 
+the new member (Figure 2). 
+ 
+Figure 2: Add New Member Form 
+ 
+
+--- PAGE 2 ---
+While adding a new member, the system provides two options (Figure 3): 
+1. New Member: If the person is new to the CMPF system, enter their details, and the system will 
+automatically generate a new CMPF account number. 
+2. Existing Member: If the person is already part of the CMPF system, enter their existing details and 
+CMPF account number. 
+ 
+Figure 3: Choose Member Type 
+After entering the details and uploading the required documents, the UDA clicks the Submit button. If all the 
+information is correct, the request is forwarded to the UAO for approval or disapproval (Figure 4). If any 
+error occurs, an alert appears asking the UDA to enter the correct details (Figure 5). 
+ 
+Figure 4: Successful Submission 
+ 
+Figure 5: Error Alert 
+UAO (UNIT AUTHORISED OFFICER) 
+In the Add New Member tab, all requests for adding new members are displayed (Figure 6). 
+ 
+Under the Received tab, all Add New Member requests forwarded to the UAO are shown. The UAO 
+can approve a request or return it to the UDA if any discrepancies are found. 
+ 
+Under the Processed tab, requests approved by the UAO and forwarded to the AAO are shown. 
+ 
+Under the Returned tab, requests returned by the UAO to the UDA are shown. 
+ 
+Under the Approved tab, requests approved by the SI are displayed. 
+
+--- PAGE 3 ---
+ 
+Figure 6: Approve/Disapprove Add New Member 
+Clicking the Ack ID under the Received tab displays the member’s employment details, bank details for PF 
+and pension, and uploaded documents. The UAO can review the information, select the AAO officer from the 
+dropdown list, and click the Forward button to send it. If any details are incorrect, the request can be 
+returned to the UDA by clicking the Return button (Figure 7). 
+ 
+Figure 7: Forward to AAO 
+AAO (AREA AUTHORISED OFFICER) 
+In the Add New Member tab, requests for adding new members are displayed (Figure 8). 
+
+--- PAGE 4 ---
+ 
+Under the Received tab, all Add New Member requests forwarded to the AAO are displayed. The 
+AAO can approve the requests or return them to the UAO if any discrepancies are found. 
+ 
+Under the Processed tab, approved requests forwarded to the AGM or IDS are displayed. 
+ 
+Under the Returned tab, all requests returned by the AAO to the UAO are displayed. 
+ 
+Under the Approved tab, requests approved by the SI are displayed. 
+ 
+Figure 8: Approve/Disapprove Add New Member 
+Clicking the Ack ID under the Received tab displays the member’s employment details, bank details for PF 
+and pension, and any uploaded documents. The AAO can review the information, select the AGM/IDS officer 
+from the dropdown list, and click Forward to AGM or Forward to IDS to send it. If any details are incorrect, 
+the request can be returned to the UAO by clicking the Return button (Figure 9). 
+ 
+Figure 9: Forward to AGM/IDS 
+
+--- PAGE 5 ---
+2.Update Member Master data 
+On successful creation of the member data , if any subsequent changes/updations has to be made member 
+master data, following steps to be followed. 
+UDA (UNIT DEALING ASSISTANT): 
+The Update Member option allows the Unit Dealing Assistant (UDA) to update member details in 
+the CMPF system. 
+1. Under the Submitted tab, the UDA can see all update requests that have been sent for review and 
+approval by UAO. 
+2. Under the Returned tab, the UDA can see all requests that were sent back by higher officers due to 
+mistakes or incorrect information. The UDA should correct the details and resend the request. 
+The Update button also appears on the right side of the page (Figure 10). 
+ 
+Figure 10: Update Member Tab 
+By clicking the Update button, the UDA can update member details by searching for the member using any of 
+the following: 
+i. 
+CMPF Account Number 
+ii. 
+Aadhaar Number 
+iii. 
+PAN 
+iv. 
+Mobile Number 
+v. 
+Name 
+After clicking the Search button, a row displaying the member’s details appears, along with 
+the View and Edit icons (Figure 11). 
+ 
+Figure 11: Member Details of the Searched Account 
+By clicking the Edit icon, all mandatory fields for updating appear. The UDA can then modify the required 
+details (Figure 11). 
+
+--- PAGE 6 ---
+ 
+Figure 11: Fields for Updating Member 
+After updating the details, the UDA clicks the Preview button to review the changes made, and then clicks 
+the Submit button. A dropdown will appear to select the officer to whom the request should be forwarded. The 
+request is then sent to the UAO, and a “Successful” message will appear (Figure 12). The claim will then be 
+visible under the Submitted tab. 
+
+--- PAGE 7 ---
+ 
+Figure 12: Submit Update Request 
+UAO (UNIT AUTHORISED OFFICER) 
+Requests for updating member details are displayed here (Figure 13). 
+ 
+Under the Received tab, all update requests for members forwarded to the UAO are displayed. The 
+UAO can either approve and forward them to the AAO or return the requests to the UDA if any 
+discrepancies are found. 
+ 
+Under the Processed tab, all approved requests forwarded to the AAO are displayed. 
+ 
+Under the Returned tab, all requests returned by the UAO to the UDA are displayed. 
+
+--- PAGE 8 ---
+ 
+Figure 13: Approve/Disapprove Member Update 
+Clicking the Upd Req Ack ID under the Received tab displays the member’s personal information, 
+employment details, and bank details for PF and pension. It also shows the updated member details with both 
+old and new values, along with any uploaded documents and remarks. The UAO can review the information, 
+select the AAO officer from the dropdown list, and click Forward to AAO to send the request. If any 
+discrepancies are found, the UAO can return the request to the UDA by clicking the Return button (Figure 
+14). 
+ 
+Figure 14: Forward to AAO 
+AAO (AREA AUTHORISED OFFICER) 
+Requests for updating member details are displayed here (Figure 15). 
+ 
+Under the Received tab, all update requests for members forwarded to the AAO are displayed. The 
+AAO can either approve the requests or return them to the UAO if any discrepancies are found. 
+ 
+Under the Processed tab, all approved requests are displayed. 
+ 
+Under the Returned tab, all requests returned by the AAO to the UAO are displayed. 
+
+--- PAGE 9 ---
+ 
+Figure 15: Approve/Disapprove Member Update 
+Clicking the Upd Req Ack ID under the Received tab displays the member's employment details, bank details 
+for PF and pension, updated member information, and any uploaded documents. The AAO can review the 
+details and click the Approve button to confirm the updates. If any discrepancies are identified, the request can 
+be returned to the UAO by clicking the Return button. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 10 ---
+3.Add Family Member Master Data 
+ 
+UDA(UNIT DEALING ASSISTANT) 
+The Add Family Member feature allows the Unit Dealing Assistant (UDA) to add new family members for 
+existing CMPF members. This function is particularly useful when a member needs to include additional 
+family members for claim or benefit purposes. 
+1. Under the Submitted tab, the UDA can view all new requests submitted for adding a family 
+member. These requests are waiting for review and approval by UAO. 
+2. Under the Returned tab, the UDA can view all requests that were sent back by higher officers due to 
+errors or missing information. The UDA should correct the details and resend the request (Figure 
+16). 
+ 
+Figure 16: Add Family Member Tab 
+By clicking the Add button, the Unit Dealing Assistant (UDA) can add a new family member’s details by 
+searching for the member’s information using their CMPF Account Number (Figure 17). 
+ 
+Figure 17: Search Member’s Family Details 
+After clicking the Search button, the member’s details appear along with an Add Family Member button 
+(Figure 18). 
+ 
+Figure 18: Member Details with Add Family Member Button 
+
+--- PAGE 11 ---
+Once the UDA clicks Add Family Member, a form appears containing all the necessary fields, claim 
+eligibility details, and a document upload option (Figure 19). 
+ 
+Figure 19: Fields for Adding a New Family Member 
+
+--- PAGE 12 ---
+After filling in the required details and uploading the supporting documents, the UDA clicks 
+the Submit button to send the request to the UAO for approval. The claim eligibility information and 
+uploaded documents are also included in the submission (Figure 20). 
+ 
+Figure 20: Document Upload and Request Submission 
+UAO (UNIT AUTHORIZED OFFICER) 
+Requests for adding a new family member are displayed here (Figure 21). 
+ 
+Under the Received tab, all requests for adding a new family member forwarded to the UAO are 
+displayed. The UAO can either approve and forward them to the AAO or return the requests to the 
+UDA if any discrepancies are found. 
+ 
+Under the Processed tab, all approved requests forwarded to the AAO are displayed. 
+ 
+Under the Returned tab, all requests returned by the UAO to the UDA are displayed. 
+ 
+Figure 21: Approve/Disapprove Add Family Member 
+Clicking the Req Ack ID under the Received tab displays the member’s details, new family member details, 
+claim eligibility information, and uploaded documents. The UAO can review the information, select the AAO 
+officer from the dropdown list, and click Forward to AAO to send the request. If any details are incorrect, 
+the UAO can return the request to the UDA by clicking the Return button (Figure 22). 
+
+--- PAGE 13 ---
+ 
+Figure 22: Forward to AAO 
+ 
+AAO ( AREA AUTHORIZED OFFICER) 
+Requests for adding a new family member are displayed here (Figure 23). 
+ 
+Under the Received tab, all requests for adding a new family member forwarded to the AAO are 
+displayed. The AAO can either approve them or return the requests to the UAO if any discrepancies 
+are found. 
+ 
+Under the Approved tab, all approved requests by the AAO are shown. 
+ 
+Under the Returned tab, all requests returned by the AAO to the UAO are displayed. 
+
+--- PAGE 14 ---
+ 
+Figure 23: Approve/Disapprove Add Family Member 
+Clicking the Upd Req Ack ID under the Received tab displays the member’s details, new family member 
+information, claim eligibility details, and any uploaded documents. The AAO can review the information and 
+approve it. If any discrepancies are identified, the request can be returned to the UAO by clicking 
+the Return button (Figure 24). 
+ 
+Figure 24: Return or Approve Add Family Member 
+
+--- PAGE 15 ---
+4.Update Family Member Master Data 
+ 
+UDA (UNIT DEALING ASSITANT 
+The Update Family Member option allows the Unit Dealing Assistant (UDA) to update 
+the details of family members in the CMPF system. 
+1. Under the Submitted tab, the UDA can view all update requests that have been 
+sent for review and approval by UAO. 
+2. Under the Returned tab, the UDA can view all requests that were sent back by 
+higher officers due to errors or incorrect details. The UDA should correct the 
+details and resend the request. 
+The Update button also appears on the right side of the page. Click this button to proceed 
+(Figure 25). 
+ 
+Figure 25: Update Family Member Tab 
+Important Note: If any claims are under process, family member details cannot be updated. In such cases, 
+an error message will be displayed when attempting to update the family member details (Figure 26). 
+ 
+Figure 26: Error Message When Family Member Update Is Restricted 
+To update family member details, the Unit Dealing Assistant (UDA) must first search for the member using 
+any of the following: CMPF Account Number, Aadhaar Number, PAN, Mobile Number, or Name (figure 27). 
+Once the member is found, click the eye icon to view details of the member and their family members. The 
+UDA can then select the specific family member whose information needs to be changed and click 
+the Edit icon to update the details (Figure 28) or the Delete icon to delete the family member. 
+
+--- PAGE 16 ---
+ 
+Figure 27: Search Family Member 
+After searching, a row containing the member’s family details appears, along with View, Edit, 
+and Delete icons (Figure 28). 
+ 
+Figure 28: Family Member Details of the Searched Account 
+By clicking the Edit icon, all editable fields related to the selected family member are displayed, including 
+nominee and claim eligibility details (Figure 29). A document upload option is also available at the end of the 
+form to attach supporting documents (Figure 30). 
+
+--- PAGE 17 ---
+ 
+Figure 29: Fields for Updating Family Member Details and Nominee Information 
+After updating the necessary details, the UDA can preview the changes by clicking the Preview button before 
+final submission (Figure 30). 
+
+--- PAGE 18 ---
+ 
+Figure 30: Preview Updated Details 
+On clicking the Submit button, the update request is submitted and forwarded to the UAO for approval or 
+disapproval (Figure 31). 
+ 
+Figure 31: Final Submission at UDA Level 
+To delete a family member, click the Delete icon on the right side of the family member details row (Figure 
+28). Upon clicking the delete icon, a Delete Family Member Details form will appear, where the UDA must 
+upload supporting documents and provide remarks for deletion, which is mandatory (Figure 32). After filling 
+in the required details, click the Delete button and select the UAO officer from the dropdown to forward the 
+request for approval. 
+
+--- PAGE 19 ---
+ 
+Figure 32: Delete Family Member Details Form 
+Once submitted, the deleted family member’s information will be temporarily removed from the list. For 
+example, in Figure 28, there were two family members; now, only one is visible (Figure 33). If the deletion 
+request is approved by the AAO, the family member will be permanently removed from the CMPF system. If 
+the request is rejected, the member will remain in the system, and their details will again appear in the family 
+member list. 
+ 
+Figure 33: Updated Family Member List After Deletion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 20 ---
+UAO (UNIT AUTHORIZED OFFICER) 
+Requests for updating family member details are displayed here (Figure 34). 
+ 
+Under the Received tab, all update requests for family members forwarded to the UAO are 
+displayed. The UAO can either approve and forward them to the AAO or return the requests to the 
+UDA if any discrepancies are found. 
+ 
+Under the Processed tab, all approved requests forwarded to the AAO are displayed. 
+ 
+Under the Returned tab, all requests returned by the UAO to the UDA are displayed. 
+ 
+Figure 34: Approve/Disapprove Family Member Update 
+Clicking the Upd Req Ack ID under the Received tab displays the member’s personal information, 
+employment details, and bank details for PF and pension. It also shows the updated family member details 
+with both old and new values, along with any uploaded documents and remarks. The UAO can review the 
+information, select the AAO officer from the dropdown list, and click Forward to AAO to send the request. 
+If any discrepancies are found, the UAO can return the request to the UDA by clicking the Return button 
+(Figure 35). 
+ 
+Figure 35: Forward to AAO 
+
+--- PAGE 21 ---
+If it is a delete claim, the Return button option is not available at the UAO level. The UAO can only forward 
+the request to the AAO after reviewing the details and adding the mandatory remarks (Figure 36). 
+ 
+Figure 36: Forwarding Delete Claim to AAO 
+ 
+ 
+
+--- PAGE 22 ---
+AAO ( AREA AUTHORIZED OFFICER) 
+Requests for updating family member details are displayed here (Figure 37). 
+ 
+Under the Received tab, all update requests for family members forwarded to the AAO are 
+displayed. The AAO can either approve them or return the requests to the UAO if any discrepancies 
+are found. 
+ 
+Under the Approved tab, all approved requests by the AAO are shown. 
+ 
+Under the Returned tab, all requests returned by the AAO to the UAO are displayed. 
+ 
+Figure 37: Approve/Disapprove Family Member Update 
+Clicking the Upd Req Ack ID under the Received tab displays the family member’s details, updated family 
+member information, and any uploaded documents. The AAO can review the details and approve them. If any 
+discrepancies are found, the request can be returned to the UAO by clicking the Return button or officer can 
+discard the request by clicking on Discard button if it is not valid (Figure 38). 
+ 
+Figure 38: Return / Discard or Approve Family Member Update 
+If it is a delete claim, the Return button option is not available at the AAO level. The AAO can only approve 
+or discard the request after reviewing the details and adding the mandatory remarks (Figure 39). 
+
+--- PAGE 23 ---
+ 
+Figure 39: Approve/ Discard the delete claim of family member 

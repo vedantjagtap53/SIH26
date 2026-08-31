@@ -1,0 +1,153 @@
+
+--- PAGE 1 ---
+Sl. 
+No
+Name of Block
+Fresh 
+or 
+Modification
+Name of Alocattee
+Application 
+No. on 
+SWCS
+Date of Final 
+Approval
+1
+Barsingsar Lignite Mine
+1st Modi
+NLC India Ltd.
+APP00225
+21-Apr-23
+2
+Bhaskarpara coal Mine
+2nd Modi
+M/s Prakash Industries Ltd
+APP00208
+18-Nov-22
+3
+Bhivkund Coal Mine
+Fresh
+Sunflag Iron and Steel Compant Ltd.
+APP00194
+8-Feb-22
+4
+Bhivkund Coal Mine
+1st Modi
+Sunflag Iron and Steel Company Ltd.
+APP00224
+28-Feb-23
+5
+Chasnalla Coal Mine
+1st Modi
+SAIL 
+APP0061
+10-Nov-22
+6
+Gangaramchak and Gangaramchak Bhadulia CM
+2nd Modi
+West Bengal Power Development Corp. Ltd.
+APP00222
+16-Nov-22
+7
+Gare Palma IV/4
+5th Modi
+Hindalco Industries Limited Milupara Raigarh
+APP00229
+14-Feb-23
+8
+Gare Palma IV/7
+1st Modi
+Sarda Energy and Minerals Limited
+APP0081
+20-Jun-22
+9
+Gondkhari Coal Mines
+1st Modi
+Adani Power Maharashtra Ltd.
+APP00226
+1-Sep-23
+10
+Jitpur Colliery
+Fresh
+STEEL AUTHORITY OF INDIA LIMITED
+APP0068
+18-Aug-22
+11
+Kalyani Khani OC
+7th Modi
+Godavari Valley Coalfield
+APP00196
+18-Aug-22
+12
+KTK 5 and 5A Incline
+2nd modi
+Godavari Valley Coalfield
+APP00203
+18-Aug-22
+13
+Kuraloi (A) North Coal Mine
+1st Modi
+Vedanta Limited
+APP0080
+8-May-22
+14
+Lignite Mine I
+1st Modi
+Neyveli Lignite Coalfield
+APP00197
+16-Aug-22
+15
+Lignite mine IA
+1st modi
+NLC India Ltd
+APP00198
+16-Sep-22
+16
+Lignite Mine II
+Fresh
+NLC India Ltd
+APP00207
+10-Feb-23
+17
+Marki Mangli II
+1st Modi
+YAZDANI INTERNATIONAL PRIVATE LIMITED
+APP00210
+13-Oct-22
+18
+New Patrapara Coal Mine
+Fresh
+The Singareni Collieries Company Limited
+APP00199
+17-Aug-22
+19
+Pachhwara North
+3rd Modi
+West Bengal Power Development Corp. Ltd.
+APP00227
+12-Apr-23
+20
+Rajhara North (Central AND Eastern) Coal Mine
+Revision
+Fairmine Carbons Pvt Ltd
+APP0070
+17-May-22
+21
+RK No 5 Incline
+2nd Modi
+The Singareni Collieries Company Limited
+APP00206
+22-Mar-23
+22
+Sahapur West Coal Mine
+1st Modi
+M/s Sarda Energy and Minerals Limited
+APP0065
+21-Apr-22
+23
+Vastan Lignite Mine
+1st Modi
+GUJARAT INDUSTRIES POWER COMPANY LIMITED
+APP0079
+20-Mar-23
+MP & MCP Approved During FY 2022-23

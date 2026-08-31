@@ -1,0 +1,142 @@
+
+--- PAGE 1 ---
+Sl. 
+No
+Name of Block
+Fresh 
+or 
+Modification
+Name of Alocattee
+Application 
+No. on 
+SWCS
+Date of Final 
+Approval
+1
+ARJUNI EAST COAL MINE
+Fresh
+Ultratech Cement Limited
+APP00258
+12.01.2024
+2
+Brahmadiha Coal Mines
+1st Modi
+The Andhra Pradesh Mineral Devevelopment Corp. Ltd
+APP00228
+07.06.2023
+3
+Burapahar Coal Mine
+Fresh
+Gujarat Mineral Development Corporation Limited
+APP00263
+28.03.2024
+4
+Damlai Lignite Mine
+Fresh
+Gujarat Mineral Development Corporation Limited
+APP00257
+12.01.2024
+5
+Datima Coal Mine
+Fresh
+SHREE CEMENT LIMITED
+APP00267
+08.04.2024
+6
+EFG-Valia
+Fresh
+Gujarat Mineral Development Corporation Limited
+APP00249
+26.07.2023
+7
+Garampani Coal Mine
+Fresh
+Assam Mineral Development Corporation Limited
+APP00274
+12.03.2024
+8
+Ghala Lignite Mine
+Fresh
+Gujarat Mineral Development Corporation Limited
+APP00278
+18.03.2024
+9
+Gourangdih ABC Coal Mine
+1st Modi
+WB Mineral Development and Trading Corp Limited
+APP00239
+09.10.2023
+10
+Kalagaw Coal Mine
+Fresh
+Teilang Pde Kalagaw Coal Mine
+APP00256
+12.02.2024
+11
+KASTA EAST COAL MINE
+Fresh
+JITUSOL DEVELOPERS PRIVATE LIMITED
+APP00270
+15.03.2024
+12
+Koilajan Coal Mine
+Fresh
+Assam Mineral Development Corporation Limited
+APP00281
+08.04.2024
+13
+Koyagudem Opencast-II Project (KOC-II)
+3rd Modi
+The Singareni Collieries Company Limited
+APP00244
+27.09.2023
+14
+Manuguru Opencast Extension (MNG OC Extn.) 
+Project
+3rd Modi
+The Singareni Collieries Company Limited
+APP00272
+28.03.2024
+15
+Nehlang Lyngdoh coal block
+Fresh
+Jaintia Hills Meghalaya Coal Field
+APP00252
+12.02.2024
+16
+Pyndengshahlang coal block
+Fresh
+KHASI HILLS (MINOR CF) Coal Field
+APP00254
+12.02.2024
+17
+RAVINDRAKHANI NO. 6 INCLINE
+2nd Modi
+Ms Singareni Collieries Company Ltd
+APP00269
+28.03.2024
+18
+Saryngkham A Coal Mine
+Fresh
+Dapmain Shylla
+APP00251
+12.02.2024
+19
+SriRampur No. 1
+1st Modi
+The Singareni Collieries Company Limited
+APP00233
+27.09.2023
+20
+Talaipalli
+1st Modi
+M/s NTPC Ltd.
+APP00230
+26.09.2023
+21
+Tokisud Block II coal Mine
+Fresh
+Twenty First Century Mining Private limited
+APP00247
+23.10.2023
+MP & MCP Approved During FY 2023-24
