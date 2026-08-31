@@ -129,16 +129,10 @@ export default function JoinRequests({ allUsers, userEmail, scope = 'local' }) {
                       ● Active
                     </span>
                   </td>
-                  <td className="py-3 px-3 text-right space-x-1.5">
-                    <button
-                      onClick={() => handleApproveUser(u.id, u.role === 'worker' ? 'inspector' : u.role === 'inspector' ? 'admin' : 'worker')}
-                      className="bg-slate-100 hover:bg-slate-200 text-gray-700 text-[11px] font-bold px-2.5 py-1 rounded-lg cursor-pointer"
-                    >
-                      Cycle Role
-                    </button>
+                  <td className="py-3 px-3 text-right">
                     <button
                       onClick={() => handleRejectUser(u.id)}
-                      className="bg-red-50 hover:bg-red-100 text-red-700 text-[11px] font-bold px-2.5 py-1 rounded-lg cursor-pointer"
+                      className="bg-red-50 hover:bg-red-100 text-red-700 text-[11px] font-bold px-2.5 py-1 rounded-lg cursor-pointer transition-colors"
                     >
                       Revoke
                     </button>
