@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api.v1.ml import router as ml_router
 
-app = FastAPI(title="FieldHub Coal Safety API", version="2.0.0")
+app = FastAPI(title="KhananSathi Coal Safety API", version="2.0.0")
 
 app.add_middleware(
     CORSMiddleware,
@@ -16,7 +16,7 @@ app.include_router(ml_router, prefix="/api/v1/ml", tags=["ML Predictions"])
 
 @app.get("/")
 def root():
-    return {"status": "healthy", "service": "FieldHub Coal Safety Backend"}
+    return {"status": "healthy", "service": "KhananSathi Coal Safety Backend"}
 
 @app.get("/api/v1/health")
 def health():

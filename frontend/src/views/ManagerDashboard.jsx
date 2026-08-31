@@ -17,6 +17,7 @@ import Broadcasts from '../components/admin/Broadcasts';
 import LeaveApprovals from '../components/admin/LeaveApprovals';
 import StatutoryForms from '../components/shared/StatutoryForms';
 import AdminAttendanceLogs from '../components/admin/AdminAttendanceLogs';
+import { fetchMLRankings } from '../services/api';
 
 export default function ManagerDashboard({ userDocData }) {
   const [activeTab, setActiveTab] = useState('overview');
@@ -35,7 +36,10 @@ export default function ManagerDashboard({ userDocData }) {
   const [broadcasts, setBroadcasts] = useState([]);
 
   useEffect(() => {
-    // Fetch ML Rankings
+    // Fetch ML Rankings from Render backend / intelligence service
+    fetchMLRankings(0.0, hazardFilter).then(data => {
+      if (data && data.length > 0) setMlRankings(data);
+    });
 
     // Firestore Listeners
     const unsubUsers = onSnapshot(collection(db, 'users'), (snapshot) => {

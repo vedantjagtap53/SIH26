@@ -162,7 +162,7 @@ export default function Login() {
                       type="email" required
                       value={email} onChange={e => setEmail(e.target.value)}
                       className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-medium text-slate-900 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 transition-all placeholder:text-slate-400"
-                      placeholder="officer@thefieldhub.com"
+                      placeholder="officer@khanansathi.in"
                     />
                   </div>
                   <div>
