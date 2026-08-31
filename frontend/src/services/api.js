@@ -1,6 +1,6 @@
 import mlFallbackData from '../data/ml_predictions.json';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://khanansathi-backend.onrender.com';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://sih26-0j5d.onrender.com';
 
 /**
  * Fetch ML risk rankings from Render backend (with graceful local fallback)
