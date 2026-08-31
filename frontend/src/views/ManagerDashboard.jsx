@@ -59,17 +59,31 @@ export default function ManagerDashboard({ userDocData }) {
     });
 
     
-    const unsubMyLeaves = onSnapshot(query(collection(db, 'leave_requests'), where('workerEmail', '==', userDocData.email), orderBy('timestamp', 'desc')), (snapshot) => {
-      setMyLeaves(snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
-    });
+    const unsubMyLeaves = onSnapshot(
+      query(collection(db, 'leave_requests'), where('workerEmail', '==', userDocData?.email || '')),
+      (snapshot) => {
+        const data = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+        data.sort((a, b) => (b.timestamp?.seconds || 0) - (a.timestamp?.seconds || 0));
+        setMyLeaves(data);
+      },
+      (err) => console.warn('myLeaves listener:', err)
+    );
 
-    const unsubLeaves = onSnapshot(query(collection(db, 'leave_requests'), orderBy('timestamp', 'desc')), (snapshot) => {
-      setLeaveRequests(snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
-    });
+    const unsubLeaves = onSnapshot(
+      query(collection(db, 'leave_requests'), orderBy('timestamp', 'desc')), 
+      (snapshot) => {
+        setLeaveRequests(snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+      },
+      (err) => console.warn('leaveRequests listener:', err)
+    );
 
-    const unsubBroadcasts = onSnapshot(query(collection(db, 'broadcasts'), orderBy('timestamp', 'desc')), (snapshot) => {
-      setBroadcasts(snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
-    });
+    const unsubBroadcasts = onSnapshot(
+      query(collection(db, 'broadcasts'), orderBy('timestamp', 'desc')), 
+      (snapshot) => {
+        setBroadcasts(snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+      },
+      (err) => console.warn('broadcasts listener:', err)
+    );
 
     return () => {
       unsubUsers();
