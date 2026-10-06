@@ -6,7 +6,7 @@
 ![DGMS Compliant](https://img.shields.io/badge/DGMS-Compliant-0078D4?style=for-the-badge&logo=shield)
 ![Hackathon](https://img.shields.io/badge/SIH-2026-critical?style=for-the-badge)
 
-**An enterprise-grade AI-powered governance and digital safety monitoring platform designed to transform coal mining operations across India.** KhananSathi bridges the gap between ground-level mining operations and national statutory oversight through real-time GIS spatial intelligence, tamper-proof geotagged camera audits, predictive risk modeling, and seamless DGMS compliance workflows.
+**An enterprise-grade AI-powered governance and digital safety monitoring platform designed to transform coal mining operations across India.** KhananSathi bridges the gap between ground-level mining operations and national statutory oversight through real-time GIS spatial intelligence, tamper-proof geotagged camera audits, predictive risk modeling, and seamless DGMS compliance workflow.
 
 ---
 
